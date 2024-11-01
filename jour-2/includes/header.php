@@ -35,7 +35,7 @@ if (LOGGED_IN) {
                     <?php endforeach; ?>
                     <?php if (LOGGED_IN): ?>
                         <form action="/logout.php" method="post">
-                            <button class="px-2.5 py-1.5 text-sm font-medium">Déconnexion</button>
+                            <button class="px-2.5 py-1.5 text-sm font-bold"><span class="text-brand">|</span> Se Déconnecter</button>
                         </form>
                     <?php endif; ?>
                 </nav>

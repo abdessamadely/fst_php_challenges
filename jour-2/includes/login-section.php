@@ -20,7 +20,7 @@ $users = $conn->query('SELECT * FROM users;')->fetch_all(MYSQLI_ASSOC);
         </div>
 
         <div>
-            <button class="bg-black text-brand font-medium p-3" type="submit">Connexion</button>
+            <button class="bg-black text-brand font-medium p-3" type="submit">Se connecter</button>
         </div>
     </form>
 </section>
