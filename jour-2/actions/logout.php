@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/init.php';
+require dirname(__DIR__) . '/init.php';
 
 unset($_SESSION['auth']);
 header('Location: /');

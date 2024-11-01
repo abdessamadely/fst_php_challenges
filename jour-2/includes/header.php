@@ -34,8 +34,8 @@ if (LOGGED_IN) {
                         </div>
                     <?php endforeach; ?>
                     <?php if (LOGGED_IN): ?>
-                        <form action="/logout.php" method="post">
-                            <button class="px-2.5 py-1.5 text-sm font-bold"><span class="text-brand">|</span> Se Déconnecter</button>
+                        <form action="/actions/logout.php" method="post">
+                            <button class="px-2.5 py-1.5 text-sm"><span class="text-brand">|</span> <span class="font-bold">Se Déconnecter</span> (<?= $_SESSION['auth']['name'] ?>)</button>
                         </form>
                     <?php endif; ?>
                 </nav>

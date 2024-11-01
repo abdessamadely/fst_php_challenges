@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/init.php';
+require dirname(__DIR__) . '/init.php';
 
 $user = get_user_by_id($_POST['user_id'] ?? 0);
 if ($user === false) {
