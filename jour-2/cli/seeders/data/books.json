@@ -1,0 +1,9097 @@
+[
+  {
+    "id": 1,
+    "title": "20,000 Leagues Under the Sea",
+    "genre": "Adventure"
+  },
+  {
+    "id": 2,
+    "title": "The Count of Monte Cristo",
+    "genre": "Adventure"
+  },
+  {
+    "id": 3,
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "Adventure"
+  },
+  {
+    "id": 4,
+    "title": "The Call of the Wild",
+    "genre": "Adventure"
+  },
+  {
+    "id": 5,
+    "title": "Tween Snow and Fire",
+    "genre": "Adventure"
+  },
+  {
+    "id": 6,
+    "title": "Fast as the Wind",
+    "genre": "Adventure"
+  },
+  {
+    "id": 7,
+    "title": "Around the World in 80 Days",
+    "genre": "Adventure"
+  },
+  {
+    "id": 8,
+    "title": "A Journey to the Centre of the Earth",
+    "genre": "Adventure"
+  },
+  {
+    "id": 9,
+    "title": "Robinson Crusoe",
+    "genre": "Adventure"
+  },
+  {
+    "id": 10,
+    "title": "20,000 Leagues Under the Seas (2nd version)",
+    "genre": "Adventure"
+  },
+  {
+    "id": 11,
+    "title": "A Princess of Mars",
+    "genre": "Adventure"
+  },
+  {
+    "id": 12,
+    "title": "Gulliver's Travels",
+    "genre": "Adventure"
+  },
+  {
+    "id": 13,
+    "title": "The Adventures of Huckleberry Finn",
+    "genre": "Adventure"
+  },
+  {
+    "id": 14,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Adventure"
+  },
+  {
+    "id": 15,
+    "title": "By Wit of Woman",
+    "genre": "Adventure"
+  },
+  {
+    "id": 16,
+    "title": "The House of a Thousand Candles",
+    "genre": "Adventure"
+  },
+  {
+    "id": 17,
+    "title": "Ayesha",
+    "genre": "Adventure"
+  },
+  {
+    "id": 18,
+    "title": "King Solomon's Mines",
+    "genre": "Adventure"
+  },
+  {
+    "id": 19,
+    "title": "Laramie'",
+    "genre": "Adventure"
+  },
+  {
+    "id": 20,
+    "title": "Kim",
+    "genre": "Adventure"
+  },
+  {
+    "id": 21,
+    "title": "The Gods of Mars",
+    "genre": "Adventure"
+  },
+  {
+    "id": 22,
+    "title": "She",
+    "genre": "Adventure"
+  },
+  {
+    "id": 23,
+    "title": "The Adventure of the Bruce-Partington Plans",
+    "genre": "Adventure"
+  },
+  {
+    "id": 24,
+    "title": "The Trials of the Core",
+    "genre": "Adventure"
+  },
+  {
+    "id": 25,
+    "title": "Induction",
+    "genre": "Adventure"
+  },
+  {
+    "id": 26,
+    "title": "Fire & Water",
+    "genre": "Adventure"
+  },
+  {
+    "id": 27,
+    "title": "Bronze Magic",
+    "genre": "Adventure"
+  },
+  {
+    "id": 28,
+    "title": "Marked",
+    "genre": "Adventure"
+  },
+  {
+    "id": 29,
+    "title": "Dillon Hunt And The Desert Oasis Resort",
+    "genre": "Adventure"
+  },
+  {
+    "id": 30,
+    "title": "Loss Of Reason",
+    "genre": "Adventure"
+  },
+  {
+    "id": 31,
+    "title": "Gulliver's Travels",
+    "genre": "Adventure"
+  },
+  {
+    "id": 32,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Adventure"
+  },
+  {
+    "id": 33,
+    "title": "The Last of the Mohicans",
+    "genre": "Adventure"
+  },
+  {
+    "id": 34,
+    "title": "Robinson Crusoe",
+    "genre": "Adventure"
+  },
+  {
+    "id": 35,
+    "title": "The Count of Monte Cristo",
+    "genre": "Adventure"
+  },
+  {
+    "id": 36,
+    "title": "The American Prejudice Against Color",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 37,
+    "title": "The Colored Girl Beautiful",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 38,
+    "title": "The Conjure Woman",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 39,
+    "title": "Narrative of the Life of Frederick Douglass",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 40,
+    "title": "An Account of Some of the Principal Slave Insurrection…",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 41,
+    "title": "Abolition Fanaticism in New York",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 42,
+    "title": "Booker T. Washington",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 43,
+    "title": "The Alternative: A Separate Nationality, or The Africa…",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 44,
+    "title": "The Underground Railroad",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 45,
+    "title": "The Emperor Jones",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 46,
+    "title": "A Black Adonis",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 47,
+    "title": "The Future of the American Negro",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 48,
+    "title": "Behind the Scenes",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 49,
+    "title": "The Complete Poems of Paul Laurence Dunbar",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 50,
+    "title": "Clotel, or The President's Daughter",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 51,
+    "title": "Good Things to Eat as Suggested by Rufus",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 52,
+    "title": "An Appeal in Favor of that Class of Americans Called A…",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 53,
+    "title": "The Colored Inventor",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 54,
+    "title": "Hagar's Daughter",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 55,
+    "title": "The History of Mary Prince",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 56,
+    "title": "The Black Phalanx",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 57,
+    "title": "Nights With Uncle Remus",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 58,
+    "title": "Margaret of Anjou",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 59,
+    "title": "The Life and Adventures of Nat Love",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 60,
+    "title": "Luck and Love in 1902",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 61,
+    "title": "The Granite Key",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 62,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 63,
+    "title": "Russian Brides",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 64,
+    "title": "River Bones",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 65,
+    "title": "Remember",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 66,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 67,
+    "title": "Playing in The Rain",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 68,
+    "title": "May It Please The Court",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 69,
+    "title": "Wyvern",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 70,
+    "title": "Magnolia Tree",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 71,
+    "title": "Keeping Katerina",
+    "genre": "African-American Studies"
+  },
+  {
+    "id": 72,
+    "title": "The Art of Interior Decoration",
+    "genre": "Art"
+  },
+  {
+    "id": 73,
+    "title": "The Babylonian Legends of the Creation",
+    "genre": "Art"
+  },
+  {
+    "id": 74,
+    "title": "Leonardo da Vinci",
+    "genre": "Art"
+  },
+  {
+    "id": 75,
+    "title": "Anecdotes of Painters, Engravers, Sculptors and Archit…",
+    "genre": "Art"
+  },
+  {
+    "id": 76,
+    "title": "The Elements of Drawing",
+    "genre": "Art"
+  },
+  {
+    "id": 77,
+    "title": "Byzantine Churches in Constantinople",
+    "genre": "Art"
+  },
+  {
+    "id": 78,
+    "title": "Burlesques",
+    "genre": "Art"
+  },
+  {
+    "id": 79,
+    "title": "Artists' Wives",
+    "genre": "Art"
+  },
+  {
+    "id": 80,
+    "title": "The Psychology of Beauty",
+    "genre": "Art"
+  },
+  {
+    "id": 81,
+    "title": "A History of Art for Beginners and Students",
+    "genre": "Art"
+  },
+  {
+    "id": 82,
+    "title": "The Boy-Artist",
+    "genre": "Art"
+  },
+  {
+    "id": 83,
+    "title": "Artist and Public",
+    "genre": "Art"
+  },
+  {
+    "id": 84,
+    "title": "The Art of Needle-work, from the Earliest Ages, 3rd ed.",
+    "genre": "Art"
+  },
+  {
+    "id": 85,
+    "title": "Aratra Pentelici, Seven Lectures on the Elements of Sc…",
+    "genre": "Art"
+  },
+  {
+    "id": 86,
+    "title": "The Arts and Crafts Movement",
+    "genre": "Art"
+  },
+  {
+    "id": 87,
+    "title": "Ariadne Florentina",
+    "genre": "Art"
+  },
+  {
+    "id": 88,
+    "title": "Artists Past and Present",
+    "genre": "Art"
+  },
+  {
+    "id": 89,
+    "title": "Zen Culture",
+    "genre": "Art"
+  },
+  {
+    "id": 90,
+    "title": "Lectures on Landscape",
+    "genre": "Art"
+  },
+  {
+    "id": 91,
+    "title": "Rural Architecture",
+    "genre": "Art"
+  },
+  {
+    "id": 92,
+    "title": "Embroidery and Tapestry Weaving",
+    "genre": "Art"
+  },
+  {
+    "id": 93,
+    "title": "Art",
+    "genre": "Art"
+  },
+  {
+    "id": 94,
+    "title": "Under the Greenwood Tree",
+    "genre": "Art"
+  },
+  {
+    "id": 95,
+    "title": "Dare to Dream",
+    "genre": "Art"
+  },
+  {
+    "id": 96,
+    "title": "The Arabian Nights",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 97,
+    "title": "The Communist Manifesto",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 98,
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 99,
+    "title": "The Age of Reason",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 100,
+    "title": "Ulysses",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 101,
+    "title": "The ''Genius''",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 102,
+    "title": "The Call of the Wild",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 103,
+    "title": "Canterbury Tales and Other Poems",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 104,
+    "title": "An Inquiry into the Nature and Causes of the Wealth of…",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 105,
+    "title": "The Arabian Nights Entertainments",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 106,
+    "title": "Eve's Diary",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 107,
+    "title": "The Adventures of Huckleberry Finn",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 108,
+    "title": "Leaves of Grass",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 109,
+    "title": "Ten Days That Shook the World",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 110,
+    "title": "The Rights of Man",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 111,
+    "title": "Candide",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 112,
+    "title": "The Decameron of Giovanni Boccaccio",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 113,
+    "title": "Candide",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 114,
+    "title": "On the Duty of Civil Disobedience",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 115,
+    "title": "Simon Called Peter",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 116,
+    "title": "Master Flea",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 117,
+    "title": "Reginald Cruden",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 118,
+    "title": "Salmelan heinätalkoot",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 119,
+    "title": "Luck and Love in 1902",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 120,
+    "title": "The Granite Key",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 121,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 122,
+    "title": "Russian Brides",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 123,
+    "title": "River Bones",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 124,
+    "title": "Remember",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 125,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 126,
+    "title": "Playing in The Rain",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 127,
+    "title": "May It Please The Court",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 128,
+    "title": "Wyvern",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 129,
+    "title": "Magnolia Tree",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 130,
+    "title": "Keeping Katerina",
+    "genre": "Banned Books"
+  },
+  {
+    "id": 131,
+    "title": "Walden",
+    "genre": "Biography"
+  },
+  {
+    "id": 132,
+    "title": "Autobiography of Benjamin Franklin",
+    "genre": "Biography"
+  },
+  {
+    "id": 133,
+    "title": "Hymns and Hymnwriters of Denmark",
+    "genre": "Biography"
+  },
+  {
+    "id": 134,
+    "title": "Alexander the Great",
+    "genre": "Biography"
+  },
+  {
+    "id": 135,
+    "title": "Abraham Lincoln",
+    "genre": "Biography"
+  },
+  {
+    "id": 136,
+    "title": "The Age of Invention",
+    "genre": "Biography"
+  },
+  {
+    "id": 137,
+    "title": "My Life and Work",
+    "genre": "Biography"
+  },
+  {
+    "id": 138,
+    "title": "The Autobiography of Ben Franklin",
+    "genre": "Biography"
+  },
+  {
+    "id": 139,
+    "title": "Abraham Lincoln",
+    "genre": "Biography"
+  },
+  {
+    "id": 140,
+    "title": "The Autobiography of Charles Darwin",
+    "genre": "Biography"
+  },
+  {
+    "id": 141,
+    "title": "An Iron Will",
+    "genre": "Biography"
+  },
+  {
+    "id": 142,
+    "title": "Leonardo da Vinci",
+    "genre": "Biography"
+  },
+  {
+    "id": 143,
+    "title": "Adventures in Friendship",
+    "genre": "Biography"
+  },
+  {
+    "id": 144,
+    "title": "Germinal",
+    "genre": "Biography"
+  },
+  {
+    "id": 145,
+    "title": "Plutarch's Lives",
+    "genre": "Biography"
+  },
+  {
+    "id": 146,
+    "title": "Beethoven",
+    "genre": "Biography"
+  },
+  {
+    "id": 147,
+    "title": "Abraham Lincoln, a History -- Volume 2",
+    "genre": "Biography"
+  },
+  {
+    "id": 148,
+    "title": "Underground",
+    "genre": "Biography"
+  },
+  {
+    "id": 149,
+    "title": "Indiscretions' of Lady Susan",
+    "genre": "Biography"
+  },
+  {
+    "id": 150,
+    "title": "Abraham Lincoln",
+    "genre": "Biography"
+  },
+  {
+    "id": 151,
+    "title": "Jesus the Christ",
+    "genre": "Biography"
+  },
+  {
+    "id": 152,
+    "title": "The Diary of a U-boat Commander",
+    "genre": "Biography"
+  },
+  {
+    "id": 153,
+    "title": "Napoleon Bonaparte",
+    "genre": "Biography"
+  },
+  {
+    "id": 154,
+    "title": "Captains of Industry",
+    "genre": "Biography"
+  },
+  {
+    "id": 155,
+    "title": "Love for a Deaf Rebel",
+    "genre": "Biography"
+  },
+  {
+    "id": 156,
+    "title": "From Silicon Valley to Swaziland",
+    "genre": "Biography"
+  },
+  {
+    "id": 157,
+    "title": "Walden",
+    "genre": "Biography"
+  },
+  {
+    "id": 158,
+    "title": "Etiquette",
+    "genre": "Business"
+  },
+  {
+    "id": 159,
+    "title": "Applied Psychology: Driving Power of Thought",
+    "genre": "Business"
+  },
+  {
+    "id": 160,
+    "title": "Applied Psychology: Making Your Own World",
+    "genre": "Business"
+  },
+  {
+    "id": 161,
+    "title": "The Book of Business Etiquette",
+    "genre": "Business"
+  },
+  {
+    "id": 162,
+    "title": "How to Invest Money",
+    "genre": "Business"
+  },
+  {
+    "id": 163,
+    "title": "One Thousand Secrets of Wise and Rich Men Revealed",
+    "genre": "Business"
+  },
+  {
+    "id": 164,
+    "title": "H. R.",
+    "genre": "Business"
+  },
+  {
+    "id": 165,
+    "title": "Business Correspondence",
+    "genre": "Business"
+  },
+  {
+    "id": 166,
+    "title": "Business Hints for Men and Women",
+    "genre": "Business"
+  },
+  {
+    "id": 167,
+    "title": "How to Write Letters (Formerly The Book of Letters)",
+    "genre": "Business"
+  },
+  {
+    "id": 168,
+    "title": "The Trained Memory",
+    "genre": "Business"
+  },
+  {
+    "id": 169,
+    "title": "Creating Capital",
+    "genre": "Business"
+  },
+  {
+    "id": 170,
+    "title": "Making Money",
+    "genre": "Business"
+  },
+  {
+    "id": 171,
+    "title": "Increasing Efficiency In Business",
+    "genre": "Business"
+  },
+  {
+    "id": 172,
+    "title": "The Size of Your Dreams",
+    "genre": "Business"
+  },
+  {
+    "id": 173,
+    "title": "Captains of Industry",
+    "genre": "Business"
+  },
+  {
+    "id": 174,
+    "title": "Get-Rich-Quick Wallingford",
+    "genre": "Business"
+  },
+  {
+    "id": 175,
+    "title": "The Business Career in its Public Relations",
+    "genre": "Business"
+  },
+  {
+    "id": 176,
+    "title": "How to Get on in the World",
+    "genre": "Business"
+  },
+  {
+    "id": 177,
+    "title": "The Banker and the Bear",
+    "genre": "Business"
+  },
+  {
+    "id": 178,
+    "title": "Money",
+    "genre": "Business"
+  },
+  {
+    "id": 179,
+    "title": "Other People's Money and How The Bankers Use It",
+    "genre": "Business"
+  },
+  {
+    "id": 180,
+    "title": "The Young Man in Business",
+    "genre": "Business"
+  },
+  {
+    "id": 181,
+    "title": "The Early Bird",
+    "genre": "Business"
+  },
+  {
+    "id": 182,
+    "title": "The Size of Your Dreams",
+    "genre": "Business"
+  },
+  {
+    "id": 183,
+    "title": "A Mad Marriage",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 184,
+    "title": "Behind the Beyond",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 185,
+    "title": "The Wilderness Mine",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 186,
+    "title": "The 'Patriotes' of '37",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 187,
+    "title": "A Canadian Bankclerk",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 188,
+    "title": "Further Foolishness",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 189,
+    "title": "The Yukon Trail",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 190,
+    "title": "Shimmer",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 191,
+    "title": "Thirty Indian Legends",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 192,
+    "title": "Antoinette de Mirecourt",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 193,
+    "title": "The Law-Breakers",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 194,
+    "title": "Raw Gold",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 195,
+    "title": "The Miracle Man",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 196,
+    "title": "Never-Fail Blake",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 197,
+    "title": "Legends of Vancouver",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 198,
+    "title": "The La Chance Mine Mystery",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 199,
+    "title": "Ballads of Lost Haven",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 200,
+    "title": "The Heart of Unaga",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 201,
+    "title": "Canadian Wonder Tales",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 202,
+    "title": "The History of the Five Indian Nations of Canada",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 203,
+    "title": "Lords of the North",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 204,
+    "title": "Humour of the North",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 205,
+    "title": "Battle of Fort George",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 206,
+    "title": "Shimmer",
+    "genre": "Canadian Literature"
+  },
+  {
+    "id": 207,
+    "title": "Don Quixote",
+    "genre": "Classic"
+  },
+  {
+    "id": 208,
+    "title": "The Republic",
+    "genre": "Classic"
+  },
+  {
+    "id": 209,
+    "title": "Great Expectations",
+    "genre": "Classic"
+  },
+  {
+    "id": 210,
+    "title": "Aesop's Fables",
+    "genre": "Classic"
+  },
+  {
+    "id": 211,
+    "title": "Beowulf",
+    "genre": "Classic"
+  },
+  {
+    "id": 212,
+    "title": "Tess of the d'Urbervilles",
+    "genre": "Classic"
+  },
+  {
+    "id": 213,
+    "title": "The Chinese Classics",
+    "genre": "Classic"
+  },
+  {
+    "id": 214,
+    "title": "The Iliad of Homer",
+    "genre": "Classic"
+  },
+  {
+    "id": 215,
+    "title": "The Decameron of Giovanni Boccaccio",
+    "genre": "Classic"
+  },
+  {
+    "id": 216,
+    "title": "The Antiquities of the Jews",
+    "genre": "Classic"
+  },
+  {
+    "id": 217,
+    "title": "The Poetics",
+    "genre": "Classic"
+  },
+  {
+    "id": 218,
+    "title": "Aesop's Fables",
+    "genre": "Classic"
+  },
+  {
+    "id": 219,
+    "title": "The Aeneid",
+    "genre": "Classic"
+  },
+  {
+    "id": 220,
+    "title": "An Account of Egypt",
+    "genre": "Classic"
+  },
+  {
+    "id": 221,
+    "title": "Plutarch's Lives",
+    "genre": "Classic"
+  },
+  {
+    "id": 222,
+    "title": "The Wars of The Jews",
+    "genre": "Classic"
+  },
+  {
+    "id": 223,
+    "title": "The Golden Sayings of Epictetus",
+    "genre": "Classic"
+  },
+  {
+    "id": 224,
+    "title": "The Aeneid of Virgil",
+    "genre": "Classic"
+  },
+  {
+    "id": 225,
+    "title": "The Athenian Constitution",
+    "genre": "Classic"
+  },
+  {
+    "id": 226,
+    "title": "The Odyssey",
+    "genre": "Classic"
+  },
+  {
+    "id": 227,
+    "title": "The Aeneid",
+    "genre": "Classic"
+  },
+  {
+    "id": 228,
+    "title": "The Iliad",
+    "genre": "Classic"
+  },
+  {
+    "id": 229,
+    "title": "Caesar's Commentaries in Latin (books 1 to 4)",
+    "genre": "Classic"
+  },
+  {
+    "id": 230,
+    "title": "Don Quixote",
+    "genre": "Classic"
+  },
+  {
+    "id": 231,
+    "title": "A Brief History of the Internet",
+    "genre": "Computers"
+  },
+  {
+    "id": 232,
+    "title": "The Hacker's Dictionary",
+    "genre": "Computers"
+  },
+  {
+    "id": 233,
+    "title": "Hacker Crackdown",
+    "genre": "Computers"
+  },
+  {
+    "id": 234,
+    "title": "Approaching Zero",
+    "genre": "Computers"
+  },
+  {
+    "id": 235,
+    "title": "3D Graphics Modelling and Rendering mini-HOWTO",
+    "genre": "Computers"
+  },
+  {
+    "id": 236,
+    "title": "Hackers, Heroes of the Computer Revolution",
+    "genre": "Computers"
+  },
+  {
+    "id": 237,
+    "title": "The New Hacker's Dictionary",
+    "genre": "Computers"
+  },
+  {
+    "id": 238,
+    "title": "The Cathedral and the Bazaar",
+    "genre": "Computers"
+  },
+  {
+    "id": 239,
+    "title": "The Jargon File",
+    "genre": "Computers"
+  },
+  {
+    "id": 240,
+    "title": "Man and Superman",
+    "genre": "Computers"
+  },
+  {
+    "id": 241,
+    "title": "Decline of Science in England",
+    "genre": "Computers"
+  },
+  {
+    "id": 242,
+    "title": "ADSL Bandwidth Management HOWTO",
+    "genre": "Computers"
+  },
+  {
+    "id": 243,
+    "title": "Underground",
+    "genre": "Computers"
+  },
+  {
+    "id": 244,
+    "title": "All Complex Ecosystems Have Parasites",
+    "genre": "Computers"
+  },
+  {
+    "id": 245,
+    "title": "Debian GNU/Linux: Guide to Installation and Usage",
+    "genre": "Computers"
+  },
+  {
+    "id": 246,
+    "title": "E-books and e-publishing",
+    "genre": "Computers"
+  },
+  {
+    "id": 247,
+    "title": "The Coming Technological Singularity",
+    "genre": "Computers"
+  },
+  {
+    "id": 248,
+    "title": "ACPI: Advanced Configuration and Power Interface",
+    "genre": "Computers"
+  },
+  {
+    "id": 249,
+    "title": "802.1X Port-Based Authentication HOWTO",
+    "genre": "Computers"
+  },
+  {
+    "id": 250,
+    "title": "The 3 Button Serial Mouse mini-HOWTO",
+    "genre": "Computers"
+  },
+  {
+    "id": 251,
+    "title": "The Cyberpunk Fakebook",
+    "genre": "Computers"
+  },
+  {
+    "id": 252,
+    "title": "On the Economy of Machinery and Manufactures",
+    "genre": "Computers"
+  },
+  {
+    "id": 253,
+    "title": "4mb Laptop HOWTO",
+    "genre": "Computers"
+  },
+  {
+    "id": 254,
+    "title": "Free for All",
+    "genre": "Computers"
+  },
+  {
+    "id": 255,
+    "title": "Luck and Love in 1902",
+    "genre": "Computers"
+  },
+  {
+    "id": 256,
+    "title": "The Granite Key",
+    "genre": "Computers"
+  },
+  {
+    "id": 257,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Computers"
+  },
+  {
+    "id": 258,
+    "title": "Russian Brides",
+    "genre": "Computers"
+  },
+  {
+    "id": 259,
+    "title": "River Bones",
+    "genre": "Computers"
+  },
+  {
+    "id": 260,
+    "title": "Remember",
+    "genre": "Computers"
+  },
+  {
+    "id": 261,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Computers"
+  },
+  {
+    "id": 262,
+    "title": "Playing in The Rain",
+    "genre": "Computers"
+  },
+  {
+    "id": 263,
+    "title": "May It Please The Court",
+    "genre": "Computers"
+  },
+  {
+    "id": 264,
+    "title": "Wyvern",
+    "genre": "Computers"
+  },
+  {
+    "id": 265,
+    "title": "Magnolia Tree",
+    "genre": "Computers"
+  },
+  {
+    "id": 266,
+    "title": "Keeping Katerina",
+    "genre": "Computers"
+  },
+  {
+    "id": 267,
+    "title": "365 Foreign Dishes",
+    "genre": "Cooking"
+  },
+  {
+    "id": 268,
+    "title": "The Chemistry of Food and Nutrition",
+    "genre": "Cooking"
+  },
+  {
+    "id": 269,
+    "title": "One Thousand Secrets of Wise and Rich Men Revealed",
+    "genre": "Cooking"
+  },
+  {
+    "id": 270,
+    "title": "Better Meals for Less Money",
+    "genre": "Cooking"
+  },
+  {
+    "id": 271,
+    "title": "365 Luncheon Dishes",
+    "genre": "Cooking"
+  },
+  {
+    "id": 272,
+    "title": "The Allinson Vegetarian Cookery Book",
+    "genre": "Cooking"
+  },
+  {
+    "id": 273,
+    "title": "The Indian Cookery Book",
+    "genre": "Cooking"
+  },
+  {
+    "id": 274,
+    "title": "The Italian Cook Book",
+    "genre": "Cooking"
+  },
+  {
+    "id": 275,
+    "title": "American Cookery",
+    "genre": "Cooking"
+  },
+  {
+    "id": 276,
+    "title": "Chocolate and Cocoa Recipes",
+    "genre": "Cooking"
+  },
+  {
+    "id": 277,
+    "title": "California Mexican-Spanish Cook Book",
+    "genre": "Cooking"
+  },
+  {
+    "id": 278,
+    "title": "The Book of Household Management",
+    "genre": "Cooking"
+  },
+  {
+    "id": 279,
+    "title": "The $100 Prize Essay on the Cultivation of the Potato;…",
+    "genre": "Cooking"
+  },
+  {
+    "id": 280,
+    "title": "Chinese-Japanese Cook Book",
+    "genre": "Cooking"
+  },
+  {
+    "id": 281,
+    "title": "Old Cookery Books and Ancient Cuisine",
+    "genre": "Cooking"
+  },
+  {
+    "id": 282,
+    "title": "Salads, Sandwiches and Chafing-Dish Dainties",
+    "genre": "Cooking"
+  },
+  {
+    "id": 283,
+    "title": "American Cookery: Thanksgiving Menus and Recipes",
+    "genre": "Cooking"
+  },
+  {
+    "id": 284,
+    "title": "Food Remedies",
+    "genre": "Cooking"
+  },
+  {
+    "id": 285,
+    "title": "The Belgian Cookbook",
+    "genre": "Cooking"
+  },
+  {
+    "id": 286,
+    "title": "The Complete Book of Cheese",
+    "genre": "Cooking"
+  },
+  {
+    "id": 287,
+    "title": "The BYU Solar Cooker/Cooler",
+    "genre": "Cooking"
+  },
+  {
+    "id": 288,
+    "title": "Culinary Herbs",
+    "genre": "Cooking"
+  },
+  {
+    "id": 289,
+    "title": "The American Housewife",
+    "genre": "Cooking"
+  },
+  {
+    "id": 290,
+    "title": "The American Frugal Housewife",
+    "genre": "Cooking"
+  },
+  {
+    "id": 291,
+    "title": "Cozy Mysteries Cookbook",
+    "genre": "Cooking"
+  },
+  {
+    "id": 292,
+    "title": "Daddy-Long-Legs",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 293,
+    "title": "The Autobiography of Charles Darwin",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 294,
+    "title": "How to Write Letters (Formerly The Book of Letters)",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 295,
+    "title": "Dear Enemy",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 296,
+    "title": "Evelina",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 297,
+    "title": "Ang Liham ni Dr. Jose Rizal sa mga Kadalagahan sa Malo…",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 298,
+    "title": "The Complete Works of Robert Burns",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 299,
+    "title": "Advice to a Young Man upon First Going to Oxford",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 300,
+    "title": "Jane Austen, Her Life and Letters",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 301,
+    "title": "Briefe aus dem Gefängnis",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 302,
+    "title": "Aurelian",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 303,
+    "title": "A correspondência de Fradique Mendes",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 304,
+    "title": "The Letters of Charles Dickens",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 305,
+    "title": "You Know Me, Al",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 306,
+    "title": "Campaign Pictures of the War in South Africa (1899-190…",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 307,
+    "title": "Familiar Letters of John Adams and His Wife Abigail Ad…",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 308,
+    "title": "Letters from a Self-Made Merchant to His Son",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 309,
+    "title": "Letters of a Woman Homesteader",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 310,
+    "title": "Correspondance de Voltaire avec le roi de Prusse",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 311,
+    "title": "The Great Dome on Mercury",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 312,
+    "title": "From Sea to Sea",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 313,
+    "title": "History of the Negro Race in America from 1619 to 1880…",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 314,
+    "title": "Autobiography and Letters of Orville Dewey, D.D.",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 315,
+    "title": "The Love Letters of Henry VIII to Anne Boleyn",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 316,
+    "title": "Luck and Love in 1902",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 317,
+    "title": "The Granite Key",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 318,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 319,
+    "title": "Russian Brides",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 320,
+    "title": "River Bones",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 321,
+    "title": "Remember",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 322,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 323,
+    "title": "Playing in The Rain",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 324,
+    "title": "May It Please The Court",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 325,
+    "title": "Wyvern",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 326,
+    "title": "Magnolia Tree",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 327,
+    "title": "Keeping Katerina",
+    "genre": "Correspondence"
+  },
+  {
+    "id": 328,
+    "title": "The Demon Girl",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 329,
+    "title": "Accelerando",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 330,
+    "title": "For the Win",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 331,
+    "title": "2012",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 332,
+    "title": "This Unhappy Planet",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 333,
+    "title": "Living History",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 334,
+    "title": "Binary",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 335,
+    "title": "All Things Are Lights",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 336,
+    "title": "Delver Magic I: Sanctum's Breach",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 337,
+    "title": "The Jargon File",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 338,
+    "title": "Ancient and Modern Physics",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 339,
+    "title": "The Bitter Chain of Slavery': Reflections on Slavery …",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 340,
+    "title": "Little Brother",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 341,
+    "title": "The Beach Scene",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 342,
+    "title": "12 Steps",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 343,
+    "title": "Seven Swords",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 344,
+    "title": "The Ware Tetralogy",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 345,
+    "title": "Corvus",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 346,
+    "title": "Buddy Holly is Alive and Well on Ganymede",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 347,
+    "title": "Bicycle Shop Murder",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 348,
+    "title": "His Robot Girlfriend",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 349,
+    "title": "(Nothing But) Flowers",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 350,
+    "title": "Geek Mafia",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 351,
+    "title": "Makers",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 352,
+    "title": "Luck and Love in 1902",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 353,
+    "title": "The Granite Key",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 354,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 355,
+    "title": "Russian Brides",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 356,
+    "title": "River Bones",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 357,
+    "title": "Remember",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 358,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 359,
+    "title": "Playing in The Rain",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 360,
+    "title": "May It Please The Court",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 361,
+    "title": "Wyvern",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 362,
+    "title": "Magnolia Tree",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 363,
+    "title": "Keeping Katerina",
+    "genre": "Creative Commons"
+  },
+  {
+    "id": 364,
+    "title": "The Critique of Pure Reason",
+    "genre": "Criticism"
+  },
+  {
+    "id": 365,
+    "title": "Adventures in Criticism",
+    "genre": "Criticism"
+  },
+  {
+    "id": 366,
+    "title": "Harvard Classics, vol 32",
+    "genre": "Criticism"
+  },
+  {
+    "id": 367,
+    "title": "An anthology of German literature",
+    "genre": "Criticism"
+  },
+  {
+    "id": 368,
+    "title": "Write It Right",
+    "genre": "Criticism"
+  },
+  {
+    "id": 369,
+    "title": "Appreciations and Criticisms of the Works of Charles D…",
+    "genre": "Criticism"
+  },
+  {
+    "id": 370,
+    "title": "Culture and Anarchy",
+    "genre": "Criticism"
+  },
+  {
+    "id": 371,
+    "title": "The Delicious Vice",
+    "genre": "Criticism"
+  },
+  {
+    "id": 372,
+    "title": "Brief History of English and American Literature",
+    "genre": "Criticism"
+  },
+  {
+    "id": 373,
+    "title": "On the Decay of the Art of Lying",
+    "genre": "Criticism"
+  },
+  {
+    "id": 374,
+    "title": "Art",
+    "genre": "Criticism"
+  },
+  {
+    "id": 375,
+    "title": "The American Credo",
+    "genre": "Criticism"
+  },
+  {
+    "id": 376,
+    "title": "The Miracle Mongers and their Methods",
+    "genre": "Criticism"
+  },
+  {
+    "id": 377,
+    "title": "The Architecture and Landscape Gardening of the Exposi…",
+    "genre": "Criticism"
+  },
+  {
+    "id": 378,
+    "title": "Theory of the Leisure Class",
+    "genre": "Criticism"
+  },
+  {
+    "id": 379,
+    "title": "French Art",
+    "genre": "Criticism"
+  },
+  {
+    "id": 380,
+    "title": "Adventures among Books",
+    "genre": "Criticism"
+  },
+  {
+    "id": 381,
+    "title": "In Defense of Women",
+    "genre": "Criticism"
+  },
+  {
+    "id": 382,
+    "title": "The Conservative Nanny State",
+    "genre": "Criticism"
+  },
+  {
+    "id": 383,
+    "title": "Goethe's Faust",
+    "genre": "Criticism"
+  },
+  {
+    "id": 384,
+    "title": "The Craft of Fiction",
+    "genre": "Criticism"
+  },
+  {
+    "id": 385,
+    "title": "English Literature: Its History and Significance for t…",
+    "genre": "Criticism"
+  },
+  {
+    "id": 386,
+    "title": "Custom and Myth",
+    "genre": "Criticism"
+  },
+  {
+    "id": 387,
+    "title": "Lectures on Art",
+    "genre": "Criticism"
+  },
+  {
+    "id": 388,
+    "title": "Luck and Love in 1902",
+    "genre": "Criticism"
+  },
+  {
+    "id": 389,
+    "title": "The Granite Key",
+    "genre": "Criticism"
+  },
+  {
+    "id": 390,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Criticism"
+  },
+  {
+    "id": 391,
+    "title": "Russian Brides",
+    "genre": "Criticism"
+  },
+  {
+    "id": 392,
+    "title": "River Bones",
+    "genre": "Criticism"
+  },
+  {
+    "id": 393,
+    "title": "Remember",
+    "genre": "Criticism"
+  },
+  {
+    "id": 394,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Criticism"
+  },
+  {
+    "id": 395,
+    "title": "Playing in The Rain",
+    "genre": "Criticism"
+  },
+  {
+    "id": 396,
+    "title": "May It Please The Court",
+    "genre": "Criticism"
+  },
+  {
+    "id": 397,
+    "title": "Wyvern",
+    "genre": "Criticism"
+  },
+  {
+    "id": 398,
+    "title": "Magnolia Tree",
+    "genre": "Criticism"
+  },
+  {
+    "id": 399,
+    "title": "Keeping Katerina",
+    "genre": "Criticism"
+  },
+  {
+    "id": 400,
+    "title": "The Complete Works of William Shakespeare",
+    "genre": "Drama"
+  },
+  {
+    "id": 401,
+    "title": "Macbeth",
+    "genre": "Drama"
+  },
+  {
+    "id": 402,
+    "title": "All For Love",
+    "genre": "Drama"
+  },
+  {
+    "id": 403,
+    "title": "By Wit of Woman",
+    "genre": "Drama"
+  },
+  {
+    "id": 404,
+    "title": "Pygmalion",
+    "genre": "Drama"
+  },
+  {
+    "id": 405,
+    "title": "A Comedy of Errors' in Seven Acts",
+    "genre": "Drama"
+  },
+  {
+    "id": 406,
+    "title": "An Ideal Husband",
+    "genre": "Drama"
+  },
+  {
+    "id": 407,
+    "title": "Riders to the Sea",
+    "genre": "Drama"
+  },
+  {
+    "id": 408,
+    "title": "Arms and the Man",
+    "genre": "Drama"
+  },
+  {
+    "id": 409,
+    "title": "The 'Mind the Paint' Girl",
+    "genre": "Drama"
+  },
+  {
+    "id": 410,
+    "title": "Antony and Cleopatra",
+    "genre": "Drama"
+  },
+  {
+    "id": 411,
+    "title": "Man and Superman",
+    "genre": "Drama"
+  },
+  {
+    "id": 412,
+    "title": "Faust",
+    "genre": "Drama"
+  },
+  {
+    "id": 413,
+    "title": "The Taming of the Shrew",
+    "genre": "Drama"
+  },
+  {
+    "id": 414,
+    "title": "A Doll's House",
+    "genre": "Drama"
+  },
+  {
+    "id": 415,
+    "title": "Pirates",
+    "genre": "Drama"
+  },
+  {
+    "id": 416,
+    "title": "Woyzeck",
+    "genre": "Drama"
+  },
+  {
+    "id": 417,
+    "title": "R.U.R.",
+    "genre": "Drama"
+  },
+  {
+    "id": 418,
+    "title": "Á hora do crime",
+    "genre": "Drama"
+  },
+  {
+    "id": 419,
+    "title": "The Agamemnon of Aeschylus",
+    "genre": "Drama"
+  },
+  {
+    "id": 420,
+    "title": "Kabale und Liebe",
+    "genre": "Drama"
+  },
+  {
+    "id": 421,
+    "title": "Sei personaggi in cerca d'autore",
+    "genre": "Drama"
+  },
+  {
+    "id": 422,
+    "title": "Romeo und Julia",
+    "genre": "Drama"
+  },
+  {
+    "id": 423,
+    "title": "A Woman of No Importance",
+    "genre": "Drama"
+  },
+  {
+    "id": 424,
+    "title": "Luck and Love in 1902",
+    "genre": "Drama"
+  },
+  {
+    "id": 425,
+    "title": "The Granite Key",
+    "genre": "Drama"
+  },
+  {
+    "id": 426,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Drama"
+  },
+  {
+    "id": 427,
+    "title": "Russian Brides",
+    "genre": "Drama"
+  },
+  {
+    "id": 428,
+    "title": "River Bones",
+    "genre": "Drama"
+  },
+  {
+    "id": 429,
+    "title": "Remember",
+    "genre": "Drama"
+  },
+  {
+    "id": 430,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Drama"
+  },
+  {
+    "id": 431,
+    "title": "Playing in The Rain",
+    "genre": "Drama"
+  },
+  {
+    "id": 432,
+    "title": "May It Please The Court",
+    "genre": "Drama"
+  },
+  {
+    "id": 433,
+    "title": "Wyvern",
+    "genre": "Drama"
+  },
+  {
+    "id": 434,
+    "title": "Magnolia Tree",
+    "genre": "Drama"
+  },
+  {
+    "id": 435,
+    "title": "Keeping Katerina",
+    "genre": "Drama"
+  },
+  {
+    "id": 436,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Espionage"
+  },
+  {
+    "id": 437,
+    "title": "Kim",
+    "genre": "Espionage"
+  },
+  {
+    "id": 438,
+    "title": "The Apartment Next Door",
+    "genre": "Espionage"
+  },
+  {
+    "id": 439,
+    "title": "The International Spy",
+    "genre": "Espionage"
+  },
+  {
+    "id": 440,
+    "title": "Brain Twister",
+    "genre": "Espionage"
+  },
+  {
+    "id": 441,
+    "title": "All Things Are Lights",
+    "genre": "Espionage"
+  },
+  {
+    "id": 442,
+    "title": "The Time Traders",
+    "genre": "Espionage"
+  },
+  {
+    "id": 443,
+    "title": "The Czar's Spy",
+    "genre": "Espionage"
+  },
+  {
+    "id": 444,
+    "title": "Greenmantle",
+    "genre": "Espionage"
+  },
+  {
+    "id": 445,
+    "title": "Inside the Lines",
+    "genre": "Espionage"
+  },
+  {
+    "id": 446,
+    "title": "100%: The Story of a Patriot",
+    "genre": "Espionage"
+  },
+  {
+    "id": 447,
+    "title": "Bulldog Drummond",
+    "genre": "Espionage"
+  },
+  {
+    "id": 448,
+    "title": "A Maker of History",
+    "genre": "Espionage"
+  },
+  {
+    "id": 449,
+    "title": "The Box with Broken Seals",
+    "genre": "Espionage"
+  },
+  {
+    "id": 450,
+    "title": "CIA Machinations in Chile in 1970",
+    "genre": "Espionage"
+  },
+  {
+    "id": 451,
+    "title": "The Count's Chauffeur",
+    "genre": "Espionage"
+  },
+  {
+    "id": 452,
+    "title": "The Dark Star",
+    "genre": "Espionage"
+  },
+  {
+    "id": 453,
+    "title": "The Secret Witness",
+    "genre": "Espionage"
+  },
+  {
+    "id": 454,
+    "title": "Security",
+    "genre": "Espionage"
+  },
+  {
+    "id": 455,
+    "title": "My Adventures as a German Secret Service Agent",
+    "genre": "Espionage"
+  },
+  {
+    "id": 456,
+    "title": "The Pathfinder",
+    "genre": "Espionage"
+  },
+  {
+    "id": 457,
+    "title": "Crescent and Iron Cross",
+    "genre": "Espionage"
+  },
+  {
+    "id": 458,
+    "title": "The Devil's Paw",
+    "genre": "Espionage"
+  },
+  {
+    "id": 459,
+    "title": "Below Zero",
+    "genre": "Espionage"
+  },
+  {
+    "id": 460,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Espionage"
+  },
+  {
+    "id": 461,
+    "title": "How to Use Your Mind",
+    "genre": "Essays"
+  },
+  {
+    "id": 462,
+    "title": "Walden",
+    "genre": "Essays"
+  },
+  {
+    "id": 463,
+    "title": "Oh, Well, You Know How Women Are!' AND 'Isn't That Ju…",
+    "genre": "Essays"
+  },
+  {
+    "id": 464,
+    "title": "Sowing and Reaping",
+    "genre": "Essays"
+  },
+  {
+    "id": 465,
+    "title": "Self Help",
+    "genre": "Essays"
+  },
+  {
+    "id": 466,
+    "title": "The Art of Money Getting",
+    "genre": "Essays"
+  },
+  {
+    "id": 467,
+    "title": "Abraham Lincoln",
+    "genre": "Essays"
+  },
+  {
+    "id": 468,
+    "title": "Emerson's Essays",
+    "genre": "Essays"
+  },
+  {
+    "id": 469,
+    "title": "Business Hints for Men and Women",
+    "genre": "Essays"
+  },
+  {
+    "id": 470,
+    "title": "Pageant of Summer",
+    "genre": "Essays"
+  },
+  {
+    "id": 471,
+    "title": "The Bitter Chain of Slavery': Reflections on Slavery …",
+    "genre": "Essays"
+  },
+  {
+    "id": 472,
+    "title": "Man and Superman",
+    "genre": "Essays"
+  },
+  {
+    "id": 473,
+    "title": "Ideas of Good and Evil",
+    "genre": "Essays"
+  },
+  {
+    "id": 474,
+    "title": "The Complete Essays of Michel de Montaigne",
+    "genre": "Essays"
+  },
+  {
+    "id": 475,
+    "title": "The Art of Writing",
+    "genre": "Essays"
+  },
+  {
+    "id": 476,
+    "title": "The Elements of Drawing",
+    "genre": "Essays"
+  },
+  {
+    "id": 477,
+    "title": "All Complex Ecosystems Have Parasites",
+    "genre": "Essays"
+  },
+  {
+    "id": 478,
+    "title": "The Coming Technological Singularity",
+    "genre": "Essays"
+  },
+  {
+    "id": 479,
+    "title": "The Business Career in its Public Relations",
+    "genre": "Essays"
+  },
+  {
+    "id": 480,
+    "title": "An Essay Concerning Humane Understanding, Volume I.",
+    "genre": "Essays"
+  },
+  {
+    "id": 481,
+    "title": "Essays of Francis Bacon",
+    "genre": "Essays"
+  },
+  {
+    "id": 482,
+    "title": "The Black",
+    "genre": "Essays"
+  },
+  {
+    "id": 483,
+    "title": "Adventures in Criticism",
+    "genre": "Essays"
+  },
+  {
+    "id": 484,
+    "title": "'Colony,''--or ''Free State''? ''Dependence,''--or ''…",
+    "genre": "Essays"
+  },
+  {
+    "id": 485,
+    "title": "Breadcrumbs: A Collection of Spiritual and Philosophic…",
+    "genre": "Essays"
+  },
+  {
+    "id": 486,
+    "title": "Walden",
+    "genre": "Essays"
+  },
+  {
+    "id": 487,
+    "title": "Etiquette",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 488,
+    "title": "The Book of Business Etiquette",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 489,
+    "title": "The Book of Good Manners",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 490,
+    "title": "How to Behave: A Pocket Manual of Republican Etiquette…",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 491,
+    "title": "How to Observe",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 492,
+    "title": "Book of Etiquette",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 493,
+    "title": "The Colored Girl Beautiful",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 494,
+    "title": "The Ladies' Book of Etiquette, and Manual of Politenes…",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 495,
+    "title": "The Etiquette of Engagement and Marriage",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 496,
+    "title": "Conversation",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 497,
+    "title": "Manners and Social Usages",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 498,
+    "title": "Routledge's Manual of Etiquette",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 499,
+    "title": "Manners and Conduct in School and Out",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 500,
+    "title": "Manners and Rules of Good Society",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 501,
+    "title": "The Melting-Pot",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 502,
+    "title": "Rollo in Society",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 503,
+    "title": "Luck and Love in 1902",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 504,
+    "title": "The Granite Key",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 505,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 506,
+    "title": "Russian Brides",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 507,
+    "title": "River Bones",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 508,
+    "title": "Remember",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 509,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 510,
+    "title": "Playing in The Rain",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 511,
+    "title": "May It Please The Court",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 512,
+    "title": "Wyvern",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 513,
+    "title": "Magnolia Tree",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 514,
+    "title": "Keeping Katerina",
+    "genre": "Etiquette"
+  },
+  {
+    "id": 515,
+    "title": "The Arabian Nights",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 516,
+    "title": "The Time Machine",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 517,
+    "title": "Collected Works of Poe",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 518,
+    "title": "The Demon Girl",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 519,
+    "title": "The Phantom of the Opera",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 520,
+    "title": "Aladdin and the Magic Lamp",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 521,
+    "title": "Gulliver's Travels",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 522,
+    "title": "Grimms' Fairy Tales",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 523,
+    "title": "Clarimonde",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 524,
+    "title": "Helga: Out of Hedgelands",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 525,
+    "title": "Beauty and the Beast",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 526,
+    "title": "The Arabian Nights Entertainments",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 527,
+    "title": "The Dunwich Horror",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 528,
+    "title": "Adventures of Pinocchio",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 529,
+    "title": "Household Stories by the Brothers Grimm",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 530,
+    "title": "The Coming of the Fairies",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 531,
+    "title": "Ayesha",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 532,
+    "title": "Collected Works of Poe",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 533,
+    "title": "The Book of the Thousand Nights and a Night, vol 1",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 534,
+    "title": "She",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 535,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 536,
+    "title": "The Arabian Nights Entertainments",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 537,
+    "title": "Alice's Abenteuer im Wonderland",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 538,
+    "title": "Worlds Unseen",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 539,
+    "title": "Wyvern",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 540,
+    "title": "Heir To Magic",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 541,
+    "title": "Bloodstone",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 542,
+    "title": "Shadowland",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 543,
+    "title": "Knowledge Revealed",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 544,
+    "title": "Grave Cargo",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 545,
+    "title": "Trial by Sorcery",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 546,
+    "title": "War Of The Animals",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 547,
+    "title": "Celestial Magic",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 548,
+    "title": "Adamant",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 549,
+    "title": "Russian Roulette",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 550,
+    "title": "The Black Bag",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 551,
+    "title": "Emma",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 552,
+    "title": "The Grammar of English Grammars",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 553,
+    "title": "20,000 Leagues Under the Sea",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 554,
+    "title": "The Arabian Nights",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 555,
+    "title": "The Complete Works of William Shakespeare",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 556,
+    "title": "The Count of Monte Cristo",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 557,
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 558,
+    "title": "The $30,000 Bequest",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 559,
+    "title": "Le Morte D'Arthur, vol 2",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 560,
+    "title": "Samlede Værker, Tredie Bind",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 561,
+    "title": "Le Morte D'Arthur, vol 1",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 562,
+    "title": "The Best Ghost Stories",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 563,
+    "title": "Dracula",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 564,
+    "title": "Persuasion",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 565,
+    "title": "Macbeth",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 566,
+    "title": "Crime and Punishment",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 567,
+    "title": "The Time Machine",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 568,
+    "title": "Siddhartha",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 569,
+    "title": "The Invisible Man",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 570,
+    "title": "Collected Works of Poe",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 571,
+    "title": "Don Quixote",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 572,
+    "title": "Ulysses",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 573,
+    "title": "The Republic",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 574,
+    "title": "The Mysterious Affair at Styles",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 575,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 576,
+    "title": "Chasing Caitlyn",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 577,
+    "title": "Reunion",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 578,
+    "title": "No Room For Regret",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 579,
+    "title": "The Legend Is Born",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 580,
+    "title": "Olivia, Mourning",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 581,
+    "title": "The Oldest Word",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 582,
+    "title": "Paycheck to Paycheck",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 583,
+    "title": "High Plains Holiday",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 584,
+    "title": "Fly Away Home",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 585,
+    "title": "Loss Of Reason",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 586,
+    "title": "From Across the Room",
+    "genre": "Fiction and Literature"
+  },
+  {
+    "id": 587,
+    "title": "2012",
+    "genre": "Games"
+  },
+  {
+    "id": 588,
+    "title": "Chess Strategy",
+    "genre": "Games"
+  },
+  {
+    "id": 589,
+    "title": "Chess and Checkers: The Way to Mastership",
+    "genre": "Games"
+  },
+  {
+    "id": 590,
+    "title": "The Abysmal Brute",
+    "genre": "Games"
+  },
+  {
+    "id": 591,
+    "title": "Games for the Playground, Home, School and Gymnasium",
+    "genre": "Games"
+  },
+  {
+    "id": 592,
+    "title": "What Shall We Do Now?",
+    "genre": "Games"
+  },
+  {
+    "id": 593,
+    "title": "Jack Winters' Baseball Team",
+    "genre": "Games"
+  },
+  {
+    "id": 594,
+    "title": "School, Church, and Home Games",
+    "genre": "Games"
+  },
+  {
+    "id": 595,
+    "title": "Chess History and Reminiscences",
+    "genre": "Games"
+  },
+  {
+    "id": 596,
+    "title": "The Canterbury Puzzles",
+    "genre": "Games"
+  },
+  {
+    "id": 597,
+    "title": "Things To Make",
+    "genre": "Games"
+  },
+  {
+    "id": 598,
+    "title": "The Book of Sports",
+    "genre": "Games"
+  },
+  {
+    "id": 599,
+    "title": "The Art of Lawn Tennis",
+    "genre": "Games"
+  },
+  {
+    "id": 600,
+    "title": "The Complete Golfer",
+    "genre": "Games"
+  },
+  {
+    "id": 601,
+    "title": "My Book of Indoor Games",
+    "genre": "Games"
+  },
+  {
+    "id": 602,
+    "title": "Alibi Ike",
+    "genre": "Games"
+  },
+  {
+    "id": 603,
+    "title": "Base-Ball: How to Become a Player",
+    "genre": "Games"
+  },
+  {
+    "id": 604,
+    "title": "A Ball Player's Career",
+    "genre": "Games"
+  },
+  {
+    "id": 605,
+    "title": "The Blood of the Arena",
+    "genre": "Games"
+  },
+  {
+    "id": 606,
+    "title": "Games For All Occasions",
+    "genre": "Games"
+  },
+  {
+    "id": 607,
+    "title": "A Conjurer's Confessions",
+    "genre": "Games"
+  },
+  {
+    "id": 608,
+    "title": "The Young Pitcher",
+    "genre": "Games"
+  },
+  {
+    "id": 609,
+    "title": "The Code of Honor",
+    "genre": "Games"
+  },
+  {
+    "id": 610,
+    "title": "You Know Me, Al",
+    "genre": "Games"
+  },
+  {
+    "id": 611,
+    "title": "Luck and Love in 1902",
+    "genre": "Games"
+  },
+  {
+    "id": 612,
+    "title": "The Granite Key",
+    "genre": "Games"
+  },
+  {
+    "id": 613,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Games"
+  },
+  {
+    "id": 614,
+    "title": "Russian Brides",
+    "genre": "Games"
+  },
+  {
+    "id": 615,
+    "title": "River Bones",
+    "genre": "Games"
+  },
+  {
+    "id": 616,
+    "title": "Remember",
+    "genre": "Games"
+  },
+  {
+    "id": 617,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Games"
+  },
+  {
+    "id": 618,
+    "title": "Playing in The Rain",
+    "genre": "Games"
+  },
+  {
+    "id": 619,
+    "title": "May It Please The Court",
+    "genre": "Games"
+  },
+  {
+    "id": 620,
+    "title": "Wyvern",
+    "genre": "Games"
+  },
+  {
+    "id": 621,
+    "title": "Magnolia Tree",
+    "genre": "Games"
+  },
+  {
+    "id": 622,
+    "title": "Keeping Katerina",
+    "genre": "Games"
+  },
+  {
+    "id": 623,
+    "title": "Kim",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 624,
+    "title": "Bliss",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 625,
+    "title": "Billy Budd",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 626,
+    "title": "The Moon and Sixpence",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 627,
+    "title": "The Garden Party",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 628,
+    "title": "Father Goriot",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 629,
+    "title": "Winter Trials (Northern Witch #1)",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 630,
+    "title": "Three Lives",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 631,
+    "title": "Eve and David",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 632,
+    "title": "David Blaize",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 633,
+    "title": "Lost Illusions",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 634,
+    "title": "Scenes from a Courtesan's Life",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 635,
+    "title": "Concerning the Eccentricities of Cardinal Pirelli",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 636,
+    "title": "South Wind",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 637,
+    "title": "Ioläus",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 638,
+    "title": "Without Hesitation",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 639,
+    "title": "Pointed Roofs",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 640,
+    "title": "The Invader",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 641,
+    "title": "Bonds of Hate",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 642,
+    "title": "Forbidden Rock and Roll",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 643,
+    "title": "Forbidden Rock and Roll",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 644,
+    "title": "Without Hesitation",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 645,
+    "title": "Winter Trials (Northern Witch #1)",
+    "genre": "Gay/Lesbian"
+  },
+  {
+    "id": 646,
+    "title": "The Best Ghost Stories",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 647,
+    "title": "Clarimonde",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 648,
+    "title": "The Canterville Ghost",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 649,
+    "title": "The Abbot's Ghost, (A Christmas Story)",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 650,
+    "title": "Across the Stream",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 651,
+    "title": "The Book of Dreams and Ghosts",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 652,
+    "title": "At the Ghost Hour",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 653,
+    "title": "The Damned",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 654,
+    "title": "Byways of Ghost-Land",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 655,
+    "title": "Black Spirits and White",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 656,
+    "title": "The Empty House and Other Ghost Stories",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 657,
+    "title": "Carnacki, The Ghost Finder",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 658,
+    "title": "The Body-Snatcher",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 659,
+    "title": "Ghosts and Family Legends",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 660,
+    "title": "Apparitions",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 661,
+    "title": "The Ebony Frame",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 662,
+    "title": "The Haunted House",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 663,
+    "title": "Indian Ghost Stories",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 664,
+    "title": "Afterward",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 665,
+    "title": "The Ghost Pirates",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 666,
+    "title": "Masterpieces of Mystery in Four Volumes",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 667,
+    "title": "The Deserted House",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 668,
+    "title": "The Haunted Hotel",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 669,
+    "title": "Remembrance",
+    "genre": "Ghost Stories"
+  },
+  {
+    "id": 670,
+    "title": "Dracula",
+    "genre": "Gothic"
+  },
+  {
+    "id": 671,
+    "title": "Collected Works of Poe",
+    "genre": "Gothic"
+  },
+  {
+    "id": 672,
+    "title": "Jane Eyre",
+    "genre": "Gothic"
+  },
+  {
+    "id": 673,
+    "title": "The Raven / The Masque of the Red Death / The Cask of …",
+    "genre": "Gothic"
+  },
+  {
+    "id": 674,
+    "title": "The Castle of Otranto",
+    "genre": "Gothic"
+  },
+  {
+    "id": 675,
+    "title": "Dracula's Guest",
+    "genre": "Gothic"
+  },
+  {
+    "id": 676,
+    "title": "The Mysteries of Udolpho",
+    "genre": "Gothic"
+  },
+  {
+    "id": 677,
+    "title": "Varney the Vampire",
+    "genre": "Gothic"
+  },
+  {
+    "id": 678,
+    "title": "The Romance of the Forest",
+    "genre": "Gothic"
+  },
+  {
+    "id": 679,
+    "title": "The Dead Alive",
+    "genre": "Gothic"
+  },
+  {
+    "id": 680,
+    "title": "The Castle of Wolfenbach",
+    "genre": "Gothic"
+  },
+  {
+    "id": 681,
+    "title": "The Last Man",
+    "genre": "Gothic"
+  },
+  {
+    "id": 682,
+    "title": "The Man",
+    "genre": "Gothic"
+  },
+  {
+    "id": 683,
+    "title": "The Castles of Athlin and Dunbayne",
+    "genre": "Gothic"
+  },
+  {
+    "id": 684,
+    "title": "The Wyvern Mystery, vol. 1",
+    "genre": "Gothic"
+  },
+  {
+    "id": 685,
+    "title": "Nightmare Abbey",
+    "genre": "Gothic"
+  },
+  {
+    "id": 686,
+    "title": "The Radio Detectives",
+    "genre": "Gothic"
+  },
+  {
+    "id": 687,
+    "title": "I misteri del castello d'Udolfo, vol. 1",
+    "genre": "Gothic"
+  },
+  {
+    "id": 688,
+    "title": "I misteri del castello d'Udolfo, vol. 2",
+    "genre": "Gothic"
+  },
+  {
+    "id": 689,
+    "title": "The Wyvern Mystery, vol. 2",
+    "genre": "Gothic"
+  },
+  {
+    "id": 690,
+    "title": "I misteri del castello d'Udolfo, vol. 4",
+    "genre": "Gothic"
+  },
+  {
+    "id": 691,
+    "title": "Wylder's Hand",
+    "genre": "Gothic"
+  },
+  {
+    "id": 692,
+    "title": "Zastrozzi",
+    "genre": "Gothic"
+  },
+  {
+    "id": 693,
+    "title": "I misteri del castello d'Udolfo, vol. 3",
+    "genre": "Gothic"
+  },
+  {
+    "id": 694,
+    "title": "Collected Works of Poe",
+    "genre": "Gothic"
+  },
+  {
+    "id": 695,
+    "title": "Dracula",
+    "genre": "Gothic"
+  },
+  {
+    "id": 696,
+    "title": "The 2008 CIA World Factbook",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 697,
+    "title": "The 2007 CIA World Factbook",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 698,
+    "title": "The 2002 CIA World Factbook",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 699,
+    "title": "CIA Machinations in Chile in 1970",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 700,
+    "title": "The Declaration of Independence of The United States o…",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 701,
+    "title": "The 2004 CIA World Factbook",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 702,
+    "title": "In Time of Emergency",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 703,
+    "title": "Troika",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 704,
+    "title": "The 2003 CIA World Factbook",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 705,
+    "title": "Archeological Investigations",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 706,
+    "title": "National Strategy for Combating Terrorism",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 707,
+    "title": "Project Trinity 1945-1946",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 708,
+    "title": "The Earliest Electromagnetic Instruments",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 709,
+    "title": "National Strategy for Combating Terrorism",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 710,
+    "title": "Tolkachev, A Worthy Successor to Penkovsky",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 711,
+    "title": "Return Loads' to Increase Transport Resources by Avoi…",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 712,
+    "title": "Slave Narratives, Oklahoma",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 713,
+    "title": "USAF Fact Sheet 95-03",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 714,
+    "title": "Slave Narratives Vol. XIV",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 715,
+    "title": "The House Fly and How to Suppress It",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 716,
+    "title": "Animal Carvings from Mounds of the Mississippi Valley",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 717,
+    "title": "An Assessment of the Consequences and Preparations for…",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 718,
+    "title": "Integration of the Armed Forces",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 719,
+    "title": "A Treatise of Witchcraft",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 720,
+    "title": "Luck and Love in 1902",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 721,
+    "title": "The Granite Key",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 722,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 723,
+    "title": "Russian Brides",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 724,
+    "title": "River Bones",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 725,
+    "title": "Remember",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 726,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 727,
+    "title": "Playing in The Rain",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 728,
+    "title": "May It Please The Court",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 729,
+    "title": "Wyvern",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 730,
+    "title": "Magnolia Tree",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 731,
+    "title": "Keeping Katerina",
+    "genre": "Government Publication"
+  },
+  {
+    "id": 732,
+    "title": "Crime and Punishment",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 733,
+    "title": "Don Quixote",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 734,
+    "title": "Anna Karenina",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 735,
+    "title": "The Bhagavad-Gita",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 736,
+    "title": "The Prince",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 737,
+    "title": "The Pilgrim's Progress",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 738,
+    "title": "David Copperfield",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 739,
+    "title": "An Inquiry into the Nature and Causes of the Wealth of…",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 740,
+    "title": "All For Love",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 741,
+    "title": "The Scarlet Letter",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 742,
+    "title": "Vanity Fair",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 743,
+    "title": "The Raven / The Masque of the Red Death / The Cask of …",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 744,
+    "title": "The Confessions of Saint Augustine",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 745,
+    "title": "Emerson's Essays",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 746,
+    "title": "The Autobiography of Ben Franklin",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 747,
+    "title": "History of the Peloponnesian War",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 748,
+    "title": "Household Tales",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 749,
+    "title": "Plutarch's Lives",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 750,
+    "title": "Father Goriot",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 751,
+    "title": "The Golden Sayings of Epictetus",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 752,
+    "title": "The History of Herodotus, volume 1",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 753,
+    "title": "The Agamemnon of Aeschylus",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 754,
+    "title": "Harvard Classics, vol 32",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 755,
+    "title": "Don Quixote",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 756,
+    "title": "Anna Karenina",
+    "genre": "Harvard Classics"
+  },
+  {
+    "id": 757,
+    "title": "The Chemistry of Food and Nutrition",
+    "genre": "Health"
+  },
+  {
+    "id": 758,
+    "title": "One Thousand Secrets of Wise and Rich Men Revealed",
+    "genre": "Health"
+  },
+  {
+    "id": 759,
+    "title": "Alcohol: A Dangerous and Unnecessary Medicine, How and…",
+    "genre": "Health"
+  },
+  {
+    "id": 760,
+    "title": "Diet and Health",
+    "genre": "Health"
+  },
+  {
+    "id": 761,
+    "title": "A Practical Guide to Self-Hypnosis",
+    "genre": "Health"
+  },
+  {
+    "id": 762,
+    "title": "Applied Psychology for Nurses",
+    "genre": "Health"
+  },
+  {
+    "id": 763,
+    "title": "The Yoga Sutras of Patanjali",
+    "genre": "Health"
+  },
+  {
+    "id": 764,
+    "title": "A Series of Lessons in Raja Yoga",
+    "genre": "Health"
+  },
+  {
+    "id": 765,
+    "title": "A Manual of the Operations of Surgery",
+    "genre": "Health"
+  },
+  {
+    "id": 766,
+    "title": "Food Remedies",
+    "genre": "Health"
+  },
+  {
+    "id": 767,
+    "title": "Disease and Its Causes",
+    "genre": "Health"
+  },
+  {
+    "id": 768,
+    "title": "Applied Physiology",
+    "genre": "Health"
+  },
+  {
+    "id": 769,
+    "title": "Ginseng and Other Medicinal Plants",
+    "genre": "Health"
+  },
+  {
+    "id": 770,
+    "title": "American Red Cross Text-Book on Home Hygiene and Care …",
+    "genre": "Health"
+  },
+  {
+    "id": 771,
+    "title": "Science and Health with Key to the Scriptures",
+    "genre": "Health"
+  },
+  {
+    "id": 772,
+    "title": "The Doctrine and Practice of Yoga",
+    "genre": "Health"
+  },
+  {
+    "id": 773,
+    "title": "Syndrome",
+    "genre": "Health"
+  },
+  {
+    "id": 774,
+    "title": "Food and Health",
+    "genre": "Health"
+  },
+  {
+    "id": 775,
+    "title": "The Fun of Getting Thin",
+    "genre": "Health"
+  },
+  {
+    "id": 776,
+    "title": "An Epitome of Homeopathic Healing Art",
+    "genre": "Health"
+  },
+  {
+    "id": 777,
+    "title": "The Works of Aristotle the Famous Philosopher",
+    "genre": "Health"
+  },
+  {
+    "id": 778,
+    "title": "A Handbook of Health",
+    "genre": "Health"
+  },
+  {
+    "id": 779,
+    "title": "Psychotherapy",
+    "genre": "Health"
+  },
+  {
+    "id": 780,
+    "title": "The Ladies Book of Useful Information",
+    "genre": "Health"
+  },
+  {
+    "id": 781,
+    "title": "Luck and Love in 1902",
+    "genre": "Health"
+  },
+  {
+    "id": 782,
+    "title": "The Granite Key",
+    "genre": "Health"
+  },
+  {
+    "id": 783,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Health"
+  },
+  {
+    "id": 784,
+    "title": "Russian Brides",
+    "genre": "Health"
+  },
+  {
+    "id": 785,
+    "title": "River Bones",
+    "genre": "Health"
+  },
+  {
+    "id": 786,
+    "title": "Remember",
+    "genre": "Health"
+  },
+  {
+    "id": 787,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Health"
+  },
+  {
+    "id": 788,
+    "title": "Playing in The Rain",
+    "genre": "Health"
+  },
+  {
+    "id": 789,
+    "title": "May It Please The Court",
+    "genre": "Health"
+  },
+  {
+    "id": 790,
+    "title": "Wyvern",
+    "genre": "Health"
+  },
+  {
+    "id": 791,
+    "title": "Magnolia Tree",
+    "genre": "Health"
+  },
+  {
+    "id": 792,
+    "title": "Keeping Katerina",
+    "genre": "Health"
+  },
+  {
+    "id": 793,
+    "title": "The Art of War",
+    "genre": "History"
+  },
+  {
+    "id": 794,
+    "title": "The Count of Monte Cristo",
+    "genre": "History"
+  },
+  {
+    "id": 795,
+    "title": "A Tale of Two Cities",
+    "genre": "History"
+  },
+  {
+    "id": 796,
+    "title": "Tween Snow and Fire",
+    "genre": "History"
+  },
+  {
+    "id": 797,
+    "title": "Noli Me Tangere",
+    "genre": "History"
+  },
+  {
+    "id": 798,
+    "title": "The Scarlet Letter",
+    "genre": "History"
+  },
+  {
+    "id": 799,
+    "title": "Autobiography of Benjamin Franklin",
+    "genre": "History"
+  },
+  {
+    "id": 800,
+    "title": "The Origin of the Family Private Property and the State",
+    "genre": "History"
+  },
+  {
+    "id": 801,
+    "title": "A Brief History of the Internet",
+    "genre": "History"
+  },
+  {
+    "id": 802,
+    "title": "A History of China",
+    "genre": "History"
+  },
+  {
+    "id": 803,
+    "title": "Ten Days That Shook the World",
+    "genre": "History"
+  },
+  {
+    "id": 804,
+    "title": "The Outline of History",
+    "genre": "History"
+  },
+  {
+    "id": 805,
+    "title": "Hymns and Hymnwriters of Denmark",
+    "genre": "History"
+  },
+  {
+    "id": 806,
+    "title": "The Rights of Man",
+    "genre": "History"
+  },
+  {
+    "id": 807,
+    "title": "A Comedy of Errors' in Seven Acts",
+    "genre": "History"
+  },
+  {
+    "id": 808,
+    "title": "The River War",
+    "genre": "History"
+  },
+  {
+    "id": 809,
+    "title": "Alexander the Great",
+    "genre": "History"
+  },
+  {
+    "id": 810,
+    "title": "Anne of the Island",
+    "genre": "History"
+  },
+  {
+    "id": 811,
+    "title": "The Decameron of Giovanni Boccaccio",
+    "genre": "History"
+  },
+  {
+    "id": 812,
+    "title": "Abraham Lincoln",
+    "genre": "History"
+  },
+  {
+    "id": 813,
+    "title": "Hackers, Heroes of the Computer Revolution",
+    "genre": "History"
+  },
+  {
+    "id": 814,
+    "title": "The Antiquities of the Jews",
+    "genre": "History"
+  },
+  {
+    "id": 815,
+    "title": "...After a Few Words...",
+    "genre": "History"
+  },
+  {
+    "id": 816,
+    "title": "The Age of Invention",
+    "genre": "History"
+  },
+  {
+    "id": 817,
+    "title": "Luck and Love in 1902",
+    "genre": "History"
+  },
+  {
+    "id": 818,
+    "title": "No Room For Regret",
+    "genre": "History"
+  },
+  {
+    "id": 819,
+    "title": "The Legend Is Born",
+    "genre": "History"
+  },
+  {
+    "id": 820,
+    "title": "The Making of a Matchmaker",
+    "genre": "History"
+  },
+  {
+    "id": 821,
+    "title": "Olivia, Mourning",
+    "genre": "History"
+  },
+  {
+    "id": 822,
+    "title": "Infinity: The Fifth Bride of Pharaoh",
+    "genre": "History"
+  },
+  {
+    "id": 823,
+    "title": "High Plains Holiday",
+    "genre": "History"
+  },
+  {
+    "id": 824,
+    "title": "If Not For The Knight",
+    "genre": "History"
+  },
+  {
+    "id": 825,
+    "title": "From Across the Room",
+    "genre": "History"
+  },
+  {
+    "id": 826,
+    "title": "Mail Order Bride: Westward Winds",
+    "genre": "History"
+  },
+  {
+    "id": 827,
+    "title": "A Queen's Spy",
+    "genre": "History"
+  },
+  {
+    "id": 828,
+    "title": "The Lamp of Darkness",
+    "genre": "History"
+  },
+  {
+    "id": 829,
+    "title": "The Best Ghost Stories",
+    "genre": "Horror"
+  },
+  {
+    "id": 830,
+    "title": "Dracula",
+    "genre": "Horror"
+  },
+  {
+    "id": 831,
+    "title": "The Invisible Man",
+    "genre": "Horror"
+  },
+  {
+    "id": 832,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 833,
+    "title": "The Phantom of the Opera",
+    "genre": "Horror"
+  },
+  {
+    "id": 834,
+    "title": "Grimms' Fairy Tales",
+    "genre": "Horror"
+  },
+  {
+    "id": 835,
+    "title": "Clarimonde",
+    "genre": "Horror"
+  },
+  {
+    "id": 836,
+    "title": "Metamorphosis",
+    "genre": "Horror"
+  },
+  {
+    "id": 837,
+    "title": "The Yellow Wallpaper",
+    "genre": "Horror"
+  },
+  {
+    "id": 838,
+    "title": "The Dunwich Horror",
+    "genre": "Horror"
+  },
+  {
+    "id": 839,
+    "title": "The Island of Doctor Moreau",
+    "genre": "Horror"
+  },
+  {
+    "id": 840,
+    "title": "The Case of Charles Dexter Ward",
+    "genre": "Horror"
+  },
+  {
+    "id": 841,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 842,
+    "title": "The Shadow Over Innsmouth",
+    "genre": "Horror"
+  },
+  {
+    "id": 843,
+    "title": "The Raven / The Masque of the Red Death / The Cask of …",
+    "genre": "Horror"
+  },
+  {
+    "id": 844,
+    "title": "The Book of Were-Wolves",
+    "genre": "Horror"
+  },
+  {
+    "id": 845,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 846,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 847,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 848,
+    "title": "The Dreams in the Witch-House",
+    "genre": "Horror"
+  },
+  {
+    "id": 849,
+    "title": "Color Out of Space",
+    "genre": "Horror"
+  },
+  {
+    "id": 850,
+    "title": "The Horror in the Museum",
+    "genre": "Horror"
+  },
+  {
+    "id": 851,
+    "title": "The Damned",
+    "genre": "Horror"
+  },
+  {
+    "id": 852,
+    "title": "Hypnos",
+    "genre": "Horror"
+  },
+  {
+    "id": 853,
+    "title": "The Reaper of Washington County",
+    "genre": "Horror"
+  },
+  {
+    "id": 854,
+    "title": "Mostly Dark",
+    "genre": "Horror"
+  },
+  {
+    "id": 855,
+    "title": "Fosgate's Game",
+    "genre": "Horror"
+  },
+  {
+    "id": 856,
+    "title": "Devoured",
+    "genre": "Horror"
+  },
+  {
+    "id": 857,
+    "title": "Reality: Mental Damnation",
+    "genre": "Horror"
+  },
+  {
+    "id": 858,
+    "title": "Beach Town: Apocalypse",
+    "genre": "Horror"
+  },
+  {
+    "id": 859,
+    "title": "Revolt of the Rats",
+    "genre": "Horror"
+  },
+  {
+    "id": 860,
+    "title": "Ash - A Thriller",
+    "genre": "Horror"
+  },
+  {
+    "id": 861,
+    "title": "Resurrection: A Zombie Novel",
+    "genre": "Horror"
+  },
+  {
+    "id": 862,
+    "title": "Collected Works of Poe",
+    "genre": "Horror"
+  },
+  {
+    "id": 863,
+    "title": "Dracula",
+    "genre": "Horror"
+  },
+  {
+    "id": 864,
+    "title": "Emma",
+    "genre": "Humor"
+  },
+  {
+    "id": 865,
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "Humor"
+  },
+  {
+    "id": 866,
+    "title": "The $30,000 Bequest",
+    "genre": "Humor"
+  },
+  {
+    "id": 867,
+    "title": "Three Men in a Boat",
+    "genre": "Humor"
+  },
+  {
+    "id": 868,
+    "title": "Oh, Well, You Know How Women Are!' AND 'Isn't That Ju…",
+    "genre": "Humor"
+  },
+  {
+    "id": 869,
+    "title": "The Canterville Ghost",
+    "genre": "Humor"
+  },
+  {
+    "id": 870,
+    "title": "Eve's Diary",
+    "genre": "Humor"
+  },
+  {
+    "id": 871,
+    "title": "The Adventures of Huckleberry Finn",
+    "genre": "Humor"
+  },
+  {
+    "id": 872,
+    "title": "The Hacker's Dictionary",
+    "genre": "Humor"
+  },
+  {
+    "id": 873,
+    "title": "Pygmalion",
+    "genre": "Humor"
+  },
+  {
+    "id": 874,
+    "title": "A Comedy of Errors' in Seven Acts",
+    "genre": "Humor"
+  },
+  {
+    "id": 875,
+    "title": "An Ideal Husband",
+    "genre": "Humor"
+  },
+  {
+    "id": 876,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "genre": "Humor"
+  },
+  {
+    "id": 877,
+    "title": "The Best American Humorous Short Stories",
+    "genre": "Humor"
+  },
+  {
+    "id": 878,
+    "title": "The 'Mind the Paint' Girl",
+    "genre": "Humor"
+  },
+  {
+    "id": 879,
+    "title": "Petite Confessions",
+    "genre": "Humor"
+  },
+  {
+    "id": 880,
+    "title": "The Adventure of the Eleven Cuff-Buttons",
+    "genre": "Humor"
+  },
+  {
+    "id": 881,
+    "title": "Jokes For All Occasions",
+    "genre": "Humor"
+  },
+  {
+    "id": 882,
+    "title": "The Taming of the Shrew",
+    "genre": "Humor"
+  },
+  {
+    "id": 883,
+    "title": "Buddy Holly is Alive and Well on Ganymede",
+    "genre": "Humor"
+  },
+  {
+    "id": 884,
+    "title": "'George Washington's'' Last Duel",
+    "genre": "Humor"
+  },
+  {
+    "id": 885,
+    "title": "Candide",
+    "genre": "Humor"
+  },
+  {
+    "id": 886,
+    "title": "Pirates",
+    "genre": "Humor"
+  },
+  {
+    "id": 887,
+    "title": "Call It Chemistry",
+    "genre": "Humor"
+  },
+  {
+    "id": 888,
+    "title": "Best Laid Plans",
+    "genre": "Humor"
+  },
+  {
+    "id": 889,
+    "title": "Trouble Triangle",
+    "genre": "Humor"
+  },
+  {
+    "id": 890,
+    "title": "Fields' Guide to Abduction",
+    "genre": "Humor"
+  },
+  {
+    "id": 891,
+    "title": "Petite Confessions",
+    "genre": "Humor"
+  },
+  {
+    "id": 892,
+    "title": "Emma",
+    "genre": "Humor"
+  },
+  {
+    "id": 893,
+    "title": "Petite Confessions",
+    "genre": "Humor"
+  },
+  {
+    "id": 894,
+    "title": "The Grammar of English Grammars",
+    "genre": "Instructional"
+  },
+  {
+    "id": 895,
+    "title": "Palmistry for All",
+    "genre": "Instructional"
+  },
+  {
+    "id": 896,
+    "title": "How to Use Your Mind",
+    "genre": "Instructional"
+  },
+  {
+    "id": 897,
+    "title": "Fifteen Thousand Useful Phrases",
+    "genre": "Instructional"
+  },
+  {
+    "id": 898,
+    "title": "The Power of Concentration",
+    "genre": "Instructional"
+  },
+  {
+    "id": 899,
+    "title": "The Art of Writing & Speaking the English Language",
+    "genre": "Instructional"
+  },
+  {
+    "id": 900,
+    "title": "Complete Hypnotism, Mesmerism, Mind-Reading and Spritu…",
+    "genre": "Instructional"
+  },
+  {
+    "id": 901,
+    "title": "The Book of Business Etiquette",
+    "genre": "Instructional"
+  },
+  {
+    "id": 902,
+    "title": "The Art of Money Getting",
+    "genre": "Instructional"
+  },
+  {
+    "id": 903,
+    "title": "Clairvoyance and Occult Powers",
+    "genre": "Instructional"
+  },
+  {
+    "id": 904,
+    "title": "An Elementary Study of Chemistry",
+    "genre": "Instructional"
+  },
+  {
+    "id": 905,
+    "title": "3D Graphics Modelling and Rendering mini-HOWTO",
+    "genre": "Instructional"
+  },
+  {
+    "id": 906,
+    "title": "How to Invest Money",
+    "genre": "Instructional"
+  },
+  {
+    "id": 907,
+    "title": "The Book of Good Manners",
+    "genre": "Instructional"
+  },
+  {
+    "id": 908,
+    "title": "Fourteen Lessons in Yogi Philosophy and Oriental Occul…",
+    "genre": "Instructional"
+  },
+  {
+    "id": 909,
+    "title": "How to Write Clearly",
+    "genre": "Instructional"
+  },
+  {
+    "id": 910,
+    "title": "Agriculture for Beginners",
+    "genre": "Instructional"
+  },
+  {
+    "id": 911,
+    "title": "Latin for Beginners",
+    "genre": "Instructional"
+  },
+  {
+    "id": 912,
+    "title": "How to Live on 24 Hours a Day",
+    "genre": "Instructional"
+  },
+  {
+    "id": 913,
+    "title": "An Iron Will",
+    "genre": "Instructional"
+  },
+  {
+    "id": 914,
+    "title": "Advice to Young Musicians",
+    "genre": "Instructional"
+  },
+  {
+    "id": 915,
+    "title": "How to Write Letters (Formerly The Book of Letters)",
+    "genre": "Instructional"
+  },
+  {
+    "id": 916,
+    "title": "The Indian Cookery Book",
+    "genre": "Instructional"
+  },
+  {
+    "id": 917,
+    "title": "A Practical Guide to Self-Hypnosis",
+    "genre": "Instructional"
+  },
+  {
+    "id": 918,
+    "title": "Luck and Love in 1902",
+    "genre": "Instructional"
+  },
+  {
+    "id": 919,
+    "title": "The Granite Key",
+    "genre": "Instructional"
+  },
+  {
+    "id": 920,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Instructional"
+  },
+  {
+    "id": 921,
+    "title": "Russian Brides",
+    "genre": "Instructional"
+  },
+  {
+    "id": 922,
+    "title": "River Bones",
+    "genre": "Instructional"
+  },
+  {
+    "id": 923,
+    "title": "Remember",
+    "genre": "Instructional"
+  },
+  {
+    "id": 924,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Instructional"
+  },
+  {
+    "id": 925,
+    "title": "Playing in The Rain",
+    "genre": "Instructional"
+  },
+  {
+    "id": 926,
+    "title": "May It Please The Court",
+    "genre": "Instructional"
+  },
+  {
+    "id": 927,
+    "title": "Wyvern",
+    "genre": "Instructional"
+  },
+  {
+    "id": 928,
+    "title": "Magnolia Tree",
+    "genre": "Instructional"
+  },
+  {
+    "id": 929,
+    "title": "Keeping Katerina",
+    "genre": "Instructional"
+  },
+  {
+    "id": 930,
+    "title": "The Grammar of English Grammars",
+    "genre": "Language"
+  },
+  {
+    "id": 931,
+    "title": "English Synonyms and Antonyms",
+    "genre": "Language"
+  },
+  {
+    "id": 932,
+    "title": "Fifteen Thousand Useful Phrases",
+    "genre": "Language"
+  },
+  {
+    "id": 933,
+    "title": "The Art of Writing & Speaking the English Language",
+    "genre": "Language"
+  },
+  {
+    "id": 934,
+    "title": "How to Write Clearly",
+    "genre": "Language"
+  },
+  {
+    "id": 935,
+    "title": "Latin for Beginners",
+    "genre": "Language"
+  },
+  {
+    "id": 936,
+    "title": "Aesthetic as Science of Expression and General Linguis…",
+    "genre": "Language"
+  },
+  {
+    "id": 937,
+    "title": "A Pocket Dictionary - Welsh-English",
+    "genre": "Language"
+  },
+  {
+    "id": 938,
+    "title": "Stories from Tagore",
+    "genre": "Language"
+  },
+  {
+    "id": 939,
+    "title": "Practical Grammar and Composition",
+    "genre": "Language"
+  },
+  {
+    "id": 940,
+    "title": "First Italian Readings",
+    "genre": "Language"
+  },
+  {
+    "id": 941,
+    "title": "A Handbook of the English Language",
+    "genre": "Language"
+  },
+  {
+    "id": 942,
+    "title": "Graded Lessons in English",
+    "genre": "Language"
+  },
+  {
+    "id": 943,
+    "title": "Five Hundred Mistakes of Daily Occurrence in Speaking,…",
+    "genre": "Language"
+  },
+  {
+    "id": 944,
+    "title": "English as She is Spoke",
+    "genre": "Language"
+  },
+  {
+    "id": 945,
+    "title": "Anglo-Saxon Grammar and Exercise Book",
+    "genre": "Language"
+  },
+  {
+    "id": 946,
+    "title": "German Science Reader",
+    "genre": "Language"
+  },
+  {
+    "id": 947,
+    "title": "An Open Letter on Translating",
+    "genre": "Language"
+  },
+  {
+    "id": 948,
+    "title": "Higher Lessons in English",
+    "genre": "Language"
+  },
+  {
+    "id": 949,
+    "title": "A Brief History of the English Language and Literature…",
+    "genre": "Language"
+  },
+  {
+    "id": 950,
+    "title": "Anglo-Saxon Literature",
+    "genre": "Language"
+  },
+  {
+    "id": 951,
+    "title": "Luck and Love in 1902",
+    "genre": "Language"
+  },
+  {
+    "id": 952,
+    "title": "The Granite Key",
+    "genre": "Language"
+  },
+  {
+    "id": 953,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Language"
+  },
+  {
+    "id": 954,
+    "title": "Russian Brides",
+    "genre": "Language"
+  },
+  {
+    "id": 955,
+    "title": "River Bones",
+    "genre": "Language"
+  },
+  {
+    "id": 956,
+    "title": "Remember",
+    "genre": "Language"
+  },
+  {
+    "id": 957,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Language"
+  },
+  {
+    "id": 958,
+    "title": "Playing in The Rain",
+    "genre": "Language"
+  },
+  {
+    "id": 959,
+    "title": "May It Please The Court",
+    "genre": "Language"
+  },
+  {
+    "id": 960,
+    "title": "Wyvern",
+    "genre": "Language"
+  },
+  {
+    "id": 961,
+    "title": "Magnolia Tree",
+    "genre": "Language"
+  },
+  {
+    "id": 962,
+    "title": "Keeping Katerina",
+    "genre": "Language"
+  },
+  {
+    "id": 963,
+    "title": "Kashmir",
+    "genre": "Music"
+  },
+  {
+    "id": 964,
+    "title": "Advice to Young Musicians",
+    "genre": "Music"
+  },
+  {
+    "id": 965,
+    "title": "Beethoven",
+    "genre": "Music"
+  },
+  {
+    "id": 966,
+    "title": "Beethoven",
+    "genre": "Music"
+  },
+  {
+    "id": 967,
+    "title": "Among the Great Masters of Music",
+    "genre": "Music"
+  },
+  {
+    "id": 968,
+    "title": "How to Sing",
+    "genre": "Music"
+  },
+  {
+    "id": 969,
+    "title": "Life of Beethoven",
+    "genre": "Music"
+  },
+  {
+    "id": 970,
+    "title": "Beethoven: the Man and the Artist, as Revealed in his …",
+    "genre": "Music"
+  },
+  {
+    "id": 971,
+    "title": "Buch Der Lieder",
+    "genre": "Music"
+  },
+  {
+    "id": 972,
+    "title": "The Acorn-Planter",
+    "genre": "Music"
+  },
+  {
+    "id": 973,
+    "title": "Ladies and Gentlemen...The Redeemers",
+    "genre": "Music"
+  },
+  {
+    "id": 974,
+    "title": "Under the Greenwood Tree",
+    "genre": "Music"
+  },
+  {
+    "id": 975,
+    "title": "The Case of Wagner, Nietzsche Contra Wagner, and Selec…",
+    "genre": "Music"
+  },
+  {
+    "id": 976,
+    "title": "F. Chopin",
+    "genre": "Music"
+  },
+  {
+    "id": 977,
+    "title": "Hymns for Christian Devotion",
+    "genre": "Music"
+  },
+  {
+    "id": 978,
+    "title": "Ballads of Robin Hood and other Outlaws",
+    "genre": "Music"
+  },
+  {
+    "id": 979,
+    "title": "The Baby's Bouquet",
+    "genre": "Music"
+  },
+  {
+    "id": 980,
+    "title": "Bulalakaw ng Pag-asa",
+    "genre": "Music"
+  },
+  {
+    "id": 981,
+    "title": "Caruso and Tetrazzini on the Art of Singing",
+    "genre": "Music"
+  },
+  {
+    "id": 982,
+    "title": "On Conducting",
+    "genre": "Music"
+  },
+  {
+    "id": 983,
+    "title": "The Violin",
+    "genre": "Music"
+  },
+  {
+    "id": 984,
+    "title": "Christian Hymns of the First Three Centuries",
+    "genre": "Music"
+  },
+  {
+    "id": 985,
+    "title": "Mozart",
+    "genre": "Music"
+  },
+  {
+    "id": 986,
+    "title": "Violin Mastery",
+    "genre": "Music"
+  },
+  {
+    "id": 987,
+    "title": "Luck and Love in 1902",
+    "genre": "Music"
+  },
+  {
+    "id": 988,
+    "title": "The Granite Key",
+    "genre": "Music"
+  },
+  {
+    "id": 989,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Music"
+  },
+  {
+    "id": 990,
+    "title": "Russian Brides",
+    "genre": "Music"
+  },
+  {
+    "id": 991,
+    "title": "River Bones",
+    "genre": "Music"
+  },
+  {
+    "id": 992,
+    "title": "Remember",
+    "genre": "Music"
+  },
+  {
+    "id": 993,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Music"
+  },
+  {
+    "id": 994,
+    "title": "Playing in The Rain",
+    "genre": "Music"
+  },
+  {
+    "id": 995,
+    "title": "May It Please The Court",
+    "genre": "Music"
+  },
+  {
+    "id": 996,
+    "title": "Wyvern",
+    "genre": "Music"
+  },
+  {
+    "id": 997,
+    "title": "Magnolia Tree",
+    "genre": "Music"
+  },
+  {
+    "id": 998,
+    "title": "Keeping Katerina",
+    "genre": "Music"
+  },
+  {
+    "id": 999,
+    "title": "Crime and Punishment",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1000,
+    "title": "Collected Works of Poe",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1001,
+    "title": "The Mysterious Affair at Styles",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1002,
+    "title": "The Abandoned Room",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1003,
+    "title": "The Accused",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1004,
+    "title": "The Sign of the Four",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1005,
+    "title": "The Adventure of the Cardboard Box",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1006,
+    "title": "The After House",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1007,
+    "title": "The Valley of Fear",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1008,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1009,
+    "title": "The Almost Perfect Murder",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1010,
+    "title": "By Wit of Woman",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1011,
+    "title": "The Moonstone",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1012,
+    "title": "The Adventure of the Dying Detective",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1013,
+    "title": "The House of a Thousand Candles",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1014,
+    "title": "Whose Body?",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1015,
+    "title": "Laramie'",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1016,
+    "title": "The Bandit of Hell's Bend",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1017,
+    "title": "The Adventure of the Bruce-Partington Plans",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1018,
+    "title": "The Attic Murder",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1019,
+    "title": "The Adventure of the Devil's Foot",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1020,
+    "title": "The Angel of Terror",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1021,
+    "title": "813",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1022,
+    "title": "The Granite Key",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1023,
+    "title": "River Bones",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1024,
+    "title": "Remember",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1025,
+    "title": "Strangeways to Oldham",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1026,
+    "title": "Death of an Old Git",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1027,
+    "title": "Death of a Young Lieutenant",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1028,
+    "title": "Death by Greek Fire",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1029,
+    "title": "Blood Sister",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1030,
+    "title": "A Study In Red",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1031,
+    "title": "The Murder",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1032,
+    "title": "Made A Killing",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1033,
+    "title": "Dirt Dealers",
+    "genre": "Mystery/Detective"
+  },
+  {
+    "id": 1034,
+    "title": "Le Morte D'Arthur, vol 2",
+    "genre": "Myth"
+  },
+  {
+    "id": 1035,
+    "title": "Le Morte D'Arthur, vol 1",
+    "genre": "Myth"
+  },
+  {
+    "id": 1036,
+    "title": "The Adventures of Odysseus and The Tales of Troy",
+    "genre": "Myth"
+  },
+  {
+    "id": 1037,
+    "title": "A Book of Myths",
+    "genre": "Myth"
+  },
+  {
+    "id": 1038,
+    "title": "Ancient Tales and Folk-Lore of Japan",
+    "genre": "Myth"
+  },
+  {
+    "id": 1039,
+    "title": "Myths of Greece and Rome",
+    "genre": "Myth"
+  },
+  {
+    "id": 1040,
+    "title": "The Babylonian Legends of the Creation",
+    "genre": "Myth"
+  },
+  {
+    "id": 1041,
+    "title": "An Old Babylonian Version of the Gilgamesh Epic",
+    "genre": "Myth"
+  },
+  {
+    "id": 1042,
+    "title": "The Age of Fable",
+    "genre": "Myth"
+  },
+  {
+    "id": 1043,
+    "title": "Legends of Gods and Ghosts (Hawaiian Mythology)",
+    "genre": "Myth"
+  },
+  {
+    "id": 1044,
+    "title": "Babylonian Story of the Deluge",
+    "genre": "Myth"
+  },
+  {
+    "id": 1045,
+    "title": "The Book of Nature Myths",
+    "genre": "Myth"
+  },
+  {
+    "id": 1046,
+    "title": "Myths of the Norsemen",
+    "genre": "Myth"
+  },
+  {
+    "id": 1047,
+    "title": "The Science of Fairy Tales",
+    "genre": "Myth"
+  },
+  {
+    "id": 1048,
+    "title": "Irish Fairy Tales",
+    "genre": "Myth"
+  },
+  {
+    "id": 1049,
+    "title": "Myths That Every Child Should Know",
+    "genre": "Myth"
+  },
+  {
+    "id": 1050,
+    "title": "Classic Myths",
+    "genre": "Myth"
+  },
+  {
+    "id": 1051,
+    "title": "Irish Wonders",
+    "genre": "Myth"
+  },
+  {
+    "id": 1052,
+    "title": "The Belief in Immortality and the Worship of the Dead",
+    "genre": "Myth"
+  },
+  {
+    "id": 1053,
+    "title": "Aino Folk-Tales",
+    "genre": "Myth"
+  },
+  {
+    "id": 1054,
+    "title": "Myths and Marvels of Astronomy",
+    "genre": "Myth"
+  },
+  {
+    "id": 1055,
+    "title": "The Literature of the Ancient Egyptians",
+    "genre": "Myth"
+  },
+  {
+    "id": 1056,
+    "title": "Kwaidan",
+    "genre": "Myth"
+  },
+  {
+    "id": 1057,
+    "title": "Shimmer",
+    "genre": "Myth"
+  },
+  {
+    "id": 1058,
+    "title": "Walden",
+    "genre": "Nature"
+  },
+  {
+    "id": 1059,
+    "title": "Pageant of Summer",
+    "genre": "Nature"
+  },
+  {
+    "id": 1060,
+    "title": "Agriculture for Beginners",
+    "genre": "Nature"
+  },
+  {
+    "id": 1061,
+    "title": "Adventures in Friendship",
+    "genre": "Nature"
+  },
+  {
+    "id": 1062,
+    "title": "Home Vegetable Gardening",
+    "genre": "Nature"
+  },
+  {
+    "id": 1063,
+    "title": "The Adventures of Buster Bear",
+    "genre": "Nature"
+  },
+  {
+    "id": 1064,
+    "title": "The Art of Perfumery",
+    "genre": "Nature"
+  },
+  {
+    "id": 1065,
+    "title": "An Elementary Study of Insects",
+    "genre": "Nature"
+  },
+  {
+    "id": 1066,
+    "title": "The Book of Nature Myths",
+    "genre": "Nature"
+  },
+  {
+    "id": 1067,
+    "title": "Edge of the Jungle",
+    "genre": "Nature"
+  },
+  {
+    "id": 1068,
+    "title": "Happy Jack",
+    "genre": "Nature"
+  },
+  {
+    "id": 1069,
+    "title": "About Orchids",
+    "genre": "Nature"
+  },
+  {
+    "id": 1070,
+    "title": "Camp Life in the Woods and the Tricks of Trapping and …",
+    "genre": "Nature"
+  },
+  {
+    "id": 1071,
+    "title": "Science of Trapping",
+    "genre": "Nature"
+  },
+  {
+    "id": 1072,
+    "title": "Nature",
+    "genre": "Nature"
+  },
+  {
+    "id": 1073,
+    "title": "The Adventures of Maya the Bee",
+    "genre": "Nature"
+  },
+  {
+    "id": 1074,
+    "title": "In the Wilderness",
+    "genre": "Nature"
+  },
+  {
+    "id": 1075,
+    "title": "The Peacock 'At Home'",
+    "genre": "Nature"
+  },
+  {
+    "id": 1076,
+    "title": "Daddy's Bedtime Bird Stories",
+    "genre": "Nature"
+  },
+  {
+    "id": 1077,
+    "title": "The Adventures of Danny Meadow Mouse",
+    "genre": "Nature"
+  },
+  {
+    "id": 1078,
+    "title": "The Burgess Bird Book for Children",
+    "genre": "Nature"
+  },
+  {
+    "id": 1079,
+    "title": "The Adventures of Reddy Fox",
+    "genre": "Nature"
+  },
+  {
+    "id": 1080,
+    "title": "Astronomy for Amateurs",
+    "genre": "Nature"
+  },
+  {
+    "id": 1081,
+    "title": "Wild Animals at Home",
+    "genre": "Nature"
+  },
+  {
+    "id": 1082,
+    "title": "Walden",
+    "genre": "Nature"
+  },
+  {
+    "id": 1083,
+    "title": "20,000 Leagues Under the Sea",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1084,
+    "title": "Persuasion",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1085,
+    "title": "Three Men in a Boat",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1086,
+    "title": "Robinson Crusoe",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1087,
+    "title": "20,000 Leagues Under the Seas (2nd version)",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1088,
+    "title": "The After House",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1089,
+    "title": "The Island of Doctor Moreau",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1090,
+    "title": "Captain Blood",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1091,
+    "title": "Riders to the Sea",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1092,
+    "title": "Billy Budd",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1093,
+    "title": "Across the Spanish Main",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1094,
+    "title": "20.000 Mijlen onder Zee: Oostelijk Halfrond",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1095,
+    "title": "Adventure",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1096,
+    "title": "Kidnapped",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1097,
+    "title": "The Sea Wolf",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1098,
+    "title": "The Wreck of the Titan",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1099,
+    "title": "The Coral Island",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1100,
+    "title": "The Diary of a U-boat Commander",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1101,
+    "title": "Among Malay Pirates",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1102,
+    "title": "Blackbeard",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1103,
+    "title": "Captains Courageous",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1104,
+    "title": "The Loss of the S.S. Titanic",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1105,
+    "title": "20.000 Mijlen onder Zee: Westelijk Halfrond",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1106,
+    "title": "Jack Mason, the Old Sailor",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1107,
+    "title": "Robinson Crusoe",
+    "genre": "Nautical"
+  },
+  {
+    "id": 1108,
+    "title": "The Grammar of English Grammars",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1109,
+    "title": "The Communist Manifesto",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1110,
+    "title": "The Age of Reason",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1111,
+    "title": "How to Use Your Mind",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1112,
+    "title": "On the Origin of Species",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1113,
+    "title": "Oliver Twist",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1114,
+    "title": "10,000 Dreams Interpreted",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1115,
+    "title": "An Inquiry into the Nature and Causes of the Wealth of…",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1116,
+    "title": "The Power of Concentration",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1117,
+    "title": "Oh, Well, You Know How Women Are!' AND 'Isn't That Ju…",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1118,
+    "title": "Gulliver's Travels",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1119,
+    "title": "Relativity - The Special and General Theory",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1120,
+    "title": "Beyond Good and Evil",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1121,
+    "title": "Flatland (illustrated version)",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1122,
+    "title": "The 2008 CIA World Factbook",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1123,
+    "title": "Hacker Crackdown",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1124,
+    "title": "The Rights of Man",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1125,
+    "title": "365 Foreign Dishes",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1126,
+    "title": "Self Help",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1127,
+    "title": "Whose Body?",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1128,
+    "title": "Gitanjali",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1129,
+    "title": "Amusements in Mathematics",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1130,
+    "title": "Approaching Zero",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1131,
+    "title": "Humility",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1132,
+    "title": "Love for a Deaf Rebel",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1133,
+    "title": "Breadcrumbs: A Collection of Spiritual and Philosophic…",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1134,
+    "title": "Hold that Thought",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1135,
+    "title": "Cozy Mysteries Cookbook",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1136,
+    "title": "Gulliver's Travels",
+    "genre": "Non-fiction"
+  },
+  {
+    "id": 1137,
+    "title": "Palmistry for All",
+    "genre": "Occult"
+  },
+  {
+    "id": 1138,
+    "title": "Clarimonde",
+    "genre": "Occult"
+  },
+  {
+    "id": 1139,
+    "title": "Clairvoyance and Occult Powers",
+    "genre": "Occult"
+  },
+  {
+    "id": 1140,
+    "title": "Black Magic",
+    "genre": "Occult"
+  },
+  {
+    "id": 1141,
+    "title": "Across the Stream",
+    "genre": "Occult"
+  },
+  {
+    "id": 1142,
+    "title": "Fourteen Lessons in Yogi Philosophy and Oriental Occul…",
+    "genre": "Occult"
+  },
+  {
+    "id": 1143,
+    "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+    "genre": "Occult"
+  },
+  {
+    "id": 1144,
+    "title": "An Outline of Occult Science",
+    "genre": "Occult"
+  },
+  {
+    "id": 1145,
+    "title": "Byways of Ghost-Land",
+    "genre": "Occult"
+  },
+  {
+    "id": 1146,
+    "title": "Winter Trials (Northern Witch #1)",
+    "genre": "Occult"
+  },
+  {
+    "id": 1147,
+    "title": "The Centaur",
+    "genre": "Occult"
+  },
+  {
+    "id": 1148,
+    "title": "A History of Witchcraft in England from 1558 to 1718",
+    "genre": "Occult"
+  },
+  {
+    "id": 1149,
+    "title": "The Cry at Midnight",
+    "genre": "Occult"
+  },
+  {
+    "id": 1150,
+    "title": "How to Read the Crystal",
+    "genre": "Occult"
+  },
+  {
+    "id": 1151,
+    "title": "Occult Chemistry",
+    "genre": "Occult"
+  },
+  {
+    "id": 1152,
+    "title": "The Conjure Woman",
+    "genre": "Occult"
+  },
+  {
+    "id": 1153,
+    "title": "Studies in Occultism; A Series of Reprints from the Wr…",
+    "genre": "Occult"
+  },
+  {
+    "id": 1154,
+    "title": "The Mystery of the Four Fingers",
+    "genre": "Occult"
+  },
+  {
+    "id": 1155,
+    "title": "Dr Nikola's Experiment",
+    "genre": "Occult"
+  },
+  {
+    "id": 1156,
+    "title": "Dearest",
+    "genre": "Occult"
+  },
+  {
+    "id": 1157,
+    "title": "The Witch-cult in Western Europe",
+    "genre": "Occult"
+  },
+  {
+    "id": 1158,
+    "title": "The Flying Death",
+    "genre": "Occult"
+  },
+  {
+    "id": 1159,
+    "title": "Second Sight",
+    "genre": "Occult"
+  },
+  {
+    "id": 1160,
+    "title": "The Camera Fiend",
+    "genre": "Occult"
+  },
+  {
+    "id": 1161,
+    "title": "The Ghost Signal",
+    "genre": "Occult"
+  },
+  {
+    "id": 1162,
+    "title": "Revolt of the Rats",
+    "genre": "Occult"
+  },
+  {
+    "id": 1163,
+    "title": "Winter Trials (Northern Witch #1)",
+    "genre": "Occult"
+  },
+  {
+    "id": 1164,
+    "title": "The Shadow Rises (Witch-Hunter #1)",
+    "genre": "Occult"
+  },
+  {
+    "id": 1165,
+    "title": "American Cookery: Thanksgiving Menus and Recipes",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1166,
+    "title": "Astounding Stories of Super-Science",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1167,
+    "title": "The Economist",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1168,
+    "title": "Armour's Monthly Cook Book, Volume 2, No. 12, October …",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1169,
+    "title": "Astounding Stories of Super-Science, August 1930",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1170,
+    "title": "Titanic",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1171,
+    "title": "Astounding Stories of Super-Science April 1930",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1172,
+    "title": "Harper's New Monthly Magazine, Volume 1, No. 3, August…",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1173,
+    "title": "Harper's New Monthly Magazine, Vol. 3, July, 1851",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1174,
+    "title": "Harper's New Monthly Magazine, Volume 2, No. 12, May, …",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1175,
+    "title": "Harper's New Monthly Magazine, Volume 1, No. 4, Septem…",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1176,
+    "title": "Harper's New Monthly Magazine, February, 1852",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1177,
+    "title": "Harper's New Monthly Magazine, No. V, October, 1850, V…",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1178,
+    "title": "Harper's New Monthly Magazine, Volume 1, No. 2, July, …",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1179,
+    "title": "Harper's New Monthly Magazine, Vol. 2, No. 8, January,…",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1180,
+    "title": "Harper's New Monthly Magazine, No. 22, March, 1852, Vo…",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1181,
+    "title": "Astounding Stories of Super-Science, January 1931",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1182,
+    "title": "Astounding Stories of Super-Science, September 1930",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1183,
+    "title": "Alaska Days with John Muir",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1184,
+    "title": "Writings in the United Amateur, 1915-1922",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1185,
+    "title": "Archeological Investigations",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1186,
+    "title": "Self-Determining Haiti",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1187,
+    "title": "Ada",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1188,
+    "title": "The Secret Rose",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1189,
+    "title": "Luck and Love in 1902",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1190,
+    "title": "The Granite Key",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1191,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1192,
+    "title": "Russian Brides",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1193,
+    "title": "River Bones",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1194,
+    "title": "Remember",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1195,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1196,
+    "title": "Playing in The Rain",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1197,
+    "title": "May It Please The Court",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1198,
+    "title": "Wyvern",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1199,
+    "title": "Magnolia Tree",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1200,
+    "title": "Keeping Katerina",
+    "genre": "Periodical"
+  },
+  {
+    "id": 1201,
+    "title": "The Art of War",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1202,
+    "title": "The Communist Manifesto",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1203,
+    "title": "The Kama Sutra of Vatsayayana",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1204,
+    "title": "The Age of Reason",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1205,
+    "title": "Siddhartha",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1206,
+    "title": "The Sense of Beauty",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1207,
+    "title": "Palmistry for All",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1208,
+    "title": "The Analysis of Mind",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1209,
+    "title": "Meditations",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1210,
+    "title": "The Bhagavad-Gita",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1211,
+    "title": "Analyzing Character",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1212,
+    "title": "The Prince",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1213,
+    "title": "The Pilgrim's Progress",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1214,
+    "title": "Etiquette",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1215,
+    "title": "How to Analyze People on Sight",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1216,
+    "title": "The Power of Concentration",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1217,
+    "title": "Dream Psychology",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1218,
+    "title": "Applied Psychology: Driving Power of Thought",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1219,
+    "title": "The Bible",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1220,
+    "title": "Applied Psychology: Making Your Own World",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1221,
+    "title": "Beyond Good and Evil",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1222,
+    "title": "Complete Hypnotism, Mesmerism, Mind-Reading and Spritu…",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1223,
+    "title": "The Book of Business Etiquette",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1224,
+    "title": "Hymns and Hymnwriters of Denmark",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1225,
+    "title": "Loss Of Reason",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1226,
+    "title": "Siddhartha",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 1227,
+    "title": "The Count of Monte Cristo",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1228,
+    "title": "Captain Blood",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1229,
+    "title": "Across the Spanish Main",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1230,
+    "title": "The Coral Island",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1231,
+    "title": "Among Malay Pirates",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1232,
+    "title": "Blackbeard",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1233,
+    "title": "The Ghost Pirates",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1234,
+    "title": "Blackbeard: Buccaneer",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1235,
+    "title": "The Book of Buried Treasure",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1236,
+    "title": "The Lady and the Pirate",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1237,
+    "title": "Caribbee",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1238,
+    "title": "Peter and Wendy",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1239,
+    "title": "On the Trail of the Space Pirates",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1240,
+    "title": "Westward Ho!",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1241,
+    "title": "Doctor Syn",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1242,
+    "title": "Ella Eris and the Pirates of Redemption",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1243,
+    "title": "Captain Brand of the ''Centipede''",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1244,
+    "title": "Kate Bonnet",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1245,
+    "title": "Famous Privateersmen and Adventurers of the Sea",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1246,
+    "title": "The Corsair King",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1247,
+    "title": "The Great Quest",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1248,
+    "title": "Sir Henry Morgan, Buccaneer",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1249,
+    "title": "The Expedition to Borneo of H.M.S. Dido",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1250,
+    "title": "A Pirate of the Caribbees",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1251,
+    "title": "The Count of Monte Cristo",
+    "genre": "Pirate Tales"
+  },
+  {
+    "id": 1252,
+    "title": "The Complete Works of William Shakespeare",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1253,
+    "title": "Collected Works of Poe",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1254,
+    "title": "Canterbury Tales and Other Poems",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1255,
+    "title": "Beowulf",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1256,
+    "title": "Leaves of Grass",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1257,
+    "title": "Gitanjali",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1258,
+    "title": "A Comedy of Errors' in Seven Acts",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1259,
+    "title": "The Raven / The Masque of the Red Death / The Cask of …",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1260,
+    "title": "Divina Commedia",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1261,
+    "title": "The Poetics",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1262,
+    "title": "Collected Works of Poe",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1263,
+    "title": "The Hundred Best English Poems",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1264,
+    "title": "The Aeneid",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1265,
+    "title": "Antony and Cleopatra",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1266,
+    "title": "The Iliad of Homer",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1267,
+    "title": "500 Rätsel und Rätselscherze für jung und alt",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1268,
+    "title": "Faust",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1269,
+    "title": "The Odyssey of Homer",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1270,
+    "title": "The Waste Land",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1271,
+    "title": "Germinal",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1272,
+    "title": "Moores Fables for the Female Sex",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1273,
+    "title": "Actions and Reactions",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1274,
+    "title": "Divina Commedia: Inferno",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1275,
+    "title": "The Madman",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1276,
+    "title": "Unscrambled Eggs",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1277,
+    "title": "Collected Works of Poe",
+    "genre": "Poetry"
+  },
+  {
+    "id": 1278,
+    "title": "The Communist Manifesto",
+    "genre": "Politics"
+  },
+  {
+    "id": 1279,
+    "title": "On liberty",
+    "genre": "Politics"
+  },
+  {
+    "id": 1280,
+    "title": "The Republic",
+    "genre": "Politics"
+  },
+  {
+    "id": 1281,
+    "title": "Walden",
+    "genre": "Politics"
+  },
+  {
+    "id": 1282,
+    "title": "The Prince",
+    "genre": "Politics"
+  },
+  {
+    "id": 1283,
+    "title": "An Inquiry into the Nature and Causes of the Wealth of…",
+    "genre": "Politics"
+  },
+  {
+    "id": 1284,
+    "title": "The Rights of Man",
+    "genre": "Politics"
+  },
+  {
+    "id": 1285,
+    "title": "On the Duty of Civil Disobedience",
+    "genre": "Politics"
+  },
+  {
+    "id": 1286,
+    "title": "A Poor Wise Man",
+    "genre": "Politics"
+  },
+  {
+    "id": 1287,
+    "title": "Democracy and Education",
+    "genre": "Politics"
+  },
+  {
+    "id": 1288,
+    "title": "Loss Of Reason",
+    "genre": "Politics"
+  },
+  {
+    "id": 1289,
+    "title": "Utopia",
+    "genre": "Politics"
+  },
+  {
+    "id": 1290,
+    "title": "Indiscretions' of Lady Susan",
+    "genre": "Politics"
+  },
+  {
+    "id": 1291,
+    "title": "Historical materialism and the economics of Karl Marx",
+    "genre": "Politics"
+  },
+  {
+    "id": 1292,
+    "title": "The American Crisis",
+    "genre": "Politics"
+  },
+  {
+    "id": 1293,
+    "title": "Democracy In America, vol 1",
+    "genre": "Politics"
+  },
+  {
+    "id": 1294,
+    "title": "The Panama Canal Conflict between Great Britain and th…",
+    "genre": "Politics"
+  },
+  {
+    "id": 1295,
+    "title": "With the Turks in Palestine",
+    "genre": "Politics"
+  },
+  {
+    "id": 1296,
+    "title": "The French Revolution",
+    "genre": "Politics"
+  },
+  {
+    "id": 1297,
+    "title": "Ragged Trousered Philanthropists",
+    "genre": "Politics"
+  },
+  {
+    "id": 1298,
+    "title": "The Athenian Constitution",
+    "genre": "Politics"
+  },
+  {
+    "id": 1299,
+    "title": "Education in The Home, The Kindergarten, and The Prima…",
+    "genre": "Politics"
+  },
+  {
+    "id": 1300,
+    "title": "Two Treatises of Government",
+    "genre": "Politics"
+  },
+  {
+    "id": 1301,
+    "title": "Loss Of Reason",
+    "genre": "Politics"
+  },
+  {
+    "id": 1302,
+    "title": "Walden",
+    "genre": "Politics"
+  },
+  {
+    "id": 1303,
+    "title": "The Demon Girl",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1304,
+    "title": "Anthem",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1305,
+    "title": "The Accused",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1306,
+    "title": "No Orchids for Miss Blandish",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1307,
+    "title": "Accelerando",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1308,
+    "title": "A Brief History of the Internet",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1309,
+    "title": "A History of China",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1310,
+    "title": "Agent to the Stars",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1311,
+    "title": "The 2008 CIA World Factbook",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1312,
+    "title": "The Hacker's Dictionary",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1313,
+    "title": "The Almost Perfect Murder",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1314,
+    "title": "Hacker Crackdown",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1315,
+    "title": "Hymns and Hymnwriters of Denmark",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1316,
+    "title": "The Case of Charles Dexter Ward",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1317,
+    "title": "'And That's How It Was, Officer''",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1318,
+    "title": "2 B R O 2 B",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1319,
+    "title": "The Shadow Over Innsmouth",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1320,
+    "title": "Approaching Zero",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1321,
+    "title": "For the Win",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1322,
+    "title": "Accidental Death",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1323,
+    "title": "The Aliens",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1324,
+    "title": "The Way of the Bow",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1325,
+    "title": "2012",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1326,
+    "title": "3D Graphics Modelling and Rendering mini-HOWTO",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1327,
+    "title": "Petite Confessions",
+    "genre": "Post-1930"
+  },
+  {
+    "id": 1328,
+    "title": "How to Use Your Mind",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1329,
+    "title": "The Analysis of Mind",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1330,
+    "title": "How to Analyze People on Sight",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1331,
+    "title": "Criminal Psychology",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1332,
+    "title": "Dream Psychology",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1333,
+    "title": "Applied Psychology: Driving Power of Thought",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1334,
+    "title": "Applied Psychology: Making Your Own World",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1335,
+    "title": "Group Psychology and The Analysis of The Ego",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1336,
+    "title": "The Book of Courage",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1337,
+    "title": "Malignant Self Love",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1338,
+    "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1339,
+    "title": "Loss Of Reason",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1340,
+    "title": "The Science of Human Nature",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1341,
+    "title": "The Trained Memory",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1342,
+    "title": "The Beautiful",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1343,
+    "title": "Leonardo da Vinci",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1344,
+    "title": "Applied Psychology for Nurses",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1345,
+    "title": "Self Mastery Through Conscious Autosuggestion",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1346,
+    "title": "The Achievements of Luther Trant",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1347,
+    "title": "The Expression of Emotion in Man and Animals",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1348,
+    "title": "The Development Psychology of Psychopathology",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1349,
+    "title": "Power of Mental Imagery",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1350,
+    "title": "Psychology",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1351,
+    "title": "Child Versus Parent",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1352,
+    "title": "Love for a Deaf Rebel",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1353,
+    "title": "Loss Of Reason",
+    "genre": "Psychology"
+  },
+  {
+    "id": 1354,
+    "title": "The Power of Concentration",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1355,
+    "title": "A Princess of Mars",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1356,
+    "title": "No Orchids for Miss Blandish",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1357,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1358,
+    "title": "Clairvoyance and Occult Powers",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1359,
+    "title": "King Solomon's Mines",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1360,
+    "title": "The Angel of Terror",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1361,
+    "title": "At the Earth's Core",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1362,
+    "title": "Captain Blood",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1363,
+    "title": "813",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1364,
+    "title": "Arson Plus",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1365,
+    "title": "The Return of Tarzan",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1366,
+    "title": "Jack O'Judgment",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1367,
+    "title": "Color Out of Space",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1368,
+    "title": "Alcatraz",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1369,
+    "title": "The Trained Memory",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1370,
+    "title": "The Galaxy Primes",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1371,
+    "title": "The Avenger",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1372,
+    "title": "The Skylark of Space",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1373,
+    "title": "The Clue of the Silver Key",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1374,
+    "title": "The Door Through Space",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1375,
+    "title": "Anna the Adventuress",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1376,
+    "title": "Dead Men's Money",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1377,
+    "title": "Blind Love",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1378,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Pulp"
+  },
+  {
+    "id": 1379,
+    "title": "Psycho-Phone Messages",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1380,
+    "title": "Luck and Love in 1902",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1381,
+    "title": "The Granite Key",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1382,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1383,
+    "title": "Russian Brides",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1384,
+    "title": "River Bones",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1385,
+    "title": "Remember",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1386,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1387,
+    "title": "Playing in The Rain",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1388,
+    "title": "May It Please The Court",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1389,
+    "title": "Wyvern",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1390,
+    "title": "Magnolia Tree",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1391,
+    "title": "Keeping Katerina",
+    "genre": "Random Selection"
+  },
+  {
+    "id": 1392,
+    "title": "Etiquette",
+    "genre": "Reference"
+  },
+  {
+    "id": 1393,
+    "title": "Criminal Psychology",
+    "genre": "Reference"
+  },
+  {
+    "id": 1394,
+    "title": "10,000 Dreams Interpreted",
+    "genre": "Reference"
+  },
+  {
+    "id": 1395,
+    "title": "The 2008 CIA World Factbook",
+    "genre": "Reference"
+  },
+  {
+    "id": 1396,
+    "title": "The Hacker's Dictionary",
+    "genre": "Reference"
+  },
+  {
+    "id": 1397,
+    "title": "The Art of Money Getting",
+    "genre": "Reference"
+  },
+  {
+    "id": 1398,
+    "title": "Book of Wise Sayings",
+    "genre": "Reference"
+  },
+  {
+    "id": 1399,
+    "title": "Chess Strategy",
+    "genre": "Reference"
+  },
+  {
+    "id": 1400,
+    "title": "The New Hacker's Dictionary",
+    "genre": "Reference"
+  },
+  {
+    "id": 1401,
+    "title": "One Thousand Secrets of Wise and Rich Men Revealed",
+    "genre": "Reference"
+  },
+  {
+    "id": 1402,
+    "title": "Business Hints for Men and Women",
+    "genre": "Reference"
+  },
+  {
+    "id": 1403,
+    "title": "The Jargon File",
+    "genre": "Reference"
+  },
+  {
+    "id": 1404,
+    "title": "How to Live on 24 Hours a Day",
+    "genre": "Reference"
+  },
+  {
+    "id": 1405,
+    "title": "Chess and Checkers: The Way to Mastership",
+    "genre": "Reference"
+  },
+  {
+    "id": 1406,
+    "title": "Japanese Fairy Tales",
+    "genre": "Reference"
+  },
+  {
+    "id": 1407,
+    "title": "The Age of Fable",
+    "genre": "Reference"
+  },
+  {
+    "id": 1408,
+    "title": "The Book of Household Management",
+    "genre": "Reference"
+  },
+  {
+    "id": 1409,
+    "title": "A Manual of the Operations of Surgery",
+    "genre": "Reference"
+  },
+  {
+    "id": 1410,
+    "title": "The Golden Sayings of Epictetus",
+    "genre": "Reference"
+  },
+  {
+    "id": 1411,
+    "title": "Five Hundred Mistakes of Daily Occurrence in Speaking,…",
+    "genre": "Reference"
+  },
+  {
+    "id": 1412,
+    "title": "The 2007 CIA World Factbook",
+    "genre": "Reference"
+  },
+  {
+    "id": 1413,
+    "title": "Familiar Quotations",
+    "genre": "Reference"
+  },
+  {
+    "id": 1414,
+    "title": "The 2002 CIA World Factbook",
+    "genre": "Reference"
+  },
+  {
+    "id": 1415,
+    "title": "Cozy Mysteries Cookbook",
+    "genre": "Reference"
+  },
+  {
+    "id": 1416,
+    "title": "Samlede Værker, Tredie Bind",
+    "genre": "Religion"
+  },
+  {
+    "id": 1417,
+    "title": "The Age of Reason",
+    "genre": "Religion"
+  },
+  {
+    "id": 1418,
+    "title": "Siddhartha",
+    "genre": "Religion"
+  },
+  {
+    "id": 1419,
+    "title": "Meditations",
+    "genre": "Religion"
+  },
+  {
+    "id": 1420,
+    "title": "The Bhagavad-Gita",
+    "genre": "Religion"
+  },
+  {
+    "id": 1421,
+    "title": "The Pilgrim's Progress",
+    "genre": "Religion"
+  },
+  {
+    "id": 1422,
+    "title": "The Scarlet Letter",
+    "genre": "Religion"
+  },
+  {
+    "id": 1423,
+    "title": "The Bible",
+    "genre": "Religion"
+  },
+  {
+    "id": 1424,
+    "title": "The Bishop's Apron",
+    "genre": "Religion"
+  },
+  {
+    "id": 1425,
+    "title": "Hymns and Hymnwriters of Denmark",
+    "genre": "Religion"
+  },
+  {
+    "id": 1426,
+    "title": "Sowing and Reaping",
+    "genre": "Religion"
+  },
+  {
+    "id": 1427,
+    "title": "Jesus Himself'",
+    "genre": "Religion"
+  },
+  {
+    "id": 1428,
+    "title": "The Antichrist",
+    "genre": "Religion"
+  },
+  {
+    "id": 1429,
+    "title": "The Imitation of Christ",
+    "genre": "Religion"
+  },
+  {
+    "id": 1430,
+    "title": "Humility",
+    "genre": "Religion"
+  },
+  {
+    "id": 1431,
+    "title": "The Confessions of Saint Augustine",
+    "genre": "Religion"
+  },
+  {
+    "id": 1432,
+    "title": "The Antiquities of the Jews",
+    "genre": "Religion"
+  },
+  {
+    "id": 1433,
+    "title": "Worlds Unseen",
+    "genre": "Religion"
+  },
+  {
+    "id": 1434,
+    "title": "The King James Bible",
+    "genre": "Religion"
+  },
+  {
+    "id": 1435,
+    "title": "Fourteen Lessons in Yogi Philosophy and Oriental Occul…",
+    "genre": "Religion"
+  },
+  {
+    "id": 1436,
+    "title": "Loss Of Reason",
+    "genre": "Religion"
+  },
+  {
+    "id": 1437,
+    "title": "Fox's Book of Martyrs",
+    "genre": "Religion"
+  },
+  {
+    "id": 1438,
+    "title": "Me and Nobbles'",
+    "genre": "Religion"
+  },
+  {
+    "id": 1439,
+    "title": "The Abiding Presence of the Holy Ghost in the Soul",
+    "genre": "Religion"
+  },
+  {
+    "id": 1440,
+    "title": "Deadly Alliances",
+    "genre": "Religion"
+  },
+  {
+    "id": 1441,
+    "title": "Loss Of Reason",
+    "genre": "Religion"
+  },
+  {
+    "id": 1442,
+    "title": "Breadcrumbs: A Collection of Spiritual and Philosophic…",
+    "genre": "Religion"
+  },
+  {
+    "id": 1443,
+    "title": "Siddhartha",
+    "genre": "Religion"
+  },
+  {
+    "id": 1444,
+    "title": "Emma",
+    "genre": "Romance"
+  },
+  {
+    "id": 1445,
+    "title": "Healing Her Heart",
+    "genre": "Romance"
+  },
+  {
+    "id": 1446,
+    "title": "The Unveiling",
+    "genre": "Romance"
+  },
+  {
+    "id": 1447,
+    "title": "Le Morte D'Arthur, vol 1",
+    "genre": "Romance"
+  },
+  {
+    "id": 1448,
+    "title": "Persuasion",
+    "genre": "Romance"
+  },
+  {
+    "id": 1449,
+    "title": "Don Quixote",
+    "genre": "Romance"
+  },
+  {
+    "id": 1450,
+    "title": "Taking Chances",
+    "genre": "Romance"
+  },
+  {
+    "id": 1451,
+    "title": "Jane Eyre",
+    "genre": "Romance"
+  },
+  {
+    "id": 1452,
+    "title": "The Demon Girl",
+    "genre": "Romance"
+  },
+  {
+    "id": 1453,
+    "title": "Anna Karenina",
+    "genre": "Romance"
+  },
+  {
+    "id": 1454,
+    "title": "Tween Snow and Fire",
+    "genre": "Romance"
+  },
+  {
+    "id": 1455,
+    "title": "Mademoiselle At Arms",
+    "genre": "Romance"
+  },
+  {
+    "id": 1456,
+    "title": "Fast as the Wind",
+    "genre": "Romance"
+  },
+  {
+    "id": 1457,
+    "title": "The Phantom of the Opera",
+    "genre": "Romance"
+  },
+  {
+    "id": 1458,
+    "title": "Anthem",
+    "genre": "Romance"
+  },
+  {
+    "id": 1459,
+    "title": "All For Love",
+    "genre": "Romance"
+  },
+  {
+    "id": 1460,
+    "title": "Smiles'",
+    "genre": "Romance"
+  },
+  {
+    "id": 1461,
+    "title": "The After House",
+    "genre": "Romance"
+  },
+  {
+    "id": 1462,
+    "title": "Beauty and the Beast",
+    "genre": "Romance"
+  },
+  {
+    "id": 1463,
+    "title": "Sense and Sensibility",
+    "genre": "Romance"
+  },
+  {
+    "id": 1464,
+    "title": "North and South",
+    "genre": "Romance"
+  },
+  {
+    "id": 1465,
+    "title": "Jennie Gerhardt",
+    "genre": "Romance"
+  },
+  {
+    "id": 1466,
+    "title": "Daddy-Long-Legs",
+    "genre": "Romance"
+  },
+  {
+    "id": 1467,
+    "title": "Luck and Love in 1902",
+    "genre": "Romance"
+  },
+  {
+    "id": 1468,
+    "title": "Keeping Katerina",
+    "genre": "Romance"
+  },
+  {
+    "id": 1469,
+    "title": "No Wolves in Los Angeles",
+    "genre": "Romance"
+  },
+  {
+    "id": 1470,
+    "title": "Wolf Of The Past",
+    "genre": "Romance"
+  },
+  {
+    "id": 1471,
+    "title": "The Sicilian’s Betrayal",
+    "genre": "Romance"
+  },
+  {
+    "id": 1472,
+    "title": "A Convenient Risk",
+    "genre": "Romance"
+  },
+  {
+    "id": 1473,
+    "title": "Stuck with a Billionaire",
+    "genre": "Romance"
+  },
+  {
+    "id": 1474,
+    "title": "Billionaire Boss Protector",
+    "genre": "Romance"
+  },
+  {
+    "id": 1475,
+    "title": "The Making of a Matchmaker",
+    "genre": "Romance"
+  },
+  {
+    "id": 1476,
+    "title": "Uncovering Lily",
+    "genre": "Romance"
+  },
+  {
+    "id": 1477,
+    "title": "Hunted by the Past",
+    "genre": "Romance"
+  },
+  {
+    "id": 1478,
+    "title": "Loving His Workout",
+    "genre": "Romance"
+  },
+  {
+    "id": 1479,
+    "title": "The $30,000 Bequest",
+    "genre": "Satire"
+  },
+  {
+    "id": 1480,
+    "title": "Three Men in a Boat",
+    "genre": "Satire"
+  },
+  {
+    "id": 1481,
+    "title": "Oh, Well, You Know How Women Are!' AND 'Isn't That Ju…",
+    "genre": "Satire"
+  },
+  {
+    "id": 1482,
+    "title": "Gulliver's Travels",
+    "genre": "Satire"
+  },
+  {
+    "id": 1483,
+    "title": "The Adventures of Huckleberry Finn",
+    "genre": "Satire"
+  },
+  {
+    "id": 1484,
+    "title": "Vanity Fair",
+    "genre": "Satire"
+  },
+  {
+    "id": 1485,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "genre": "Satire"
+  },
+  {
+    "id": 1486,
+    "title": "Candide",
+    "genre": "Satire"
+  },
+  {
+    "id": 1487,
+    "title": "H. R.",
+    "genre": "Satire"
+  },
+  {
+    "id": 1488,
+    "title": "The First Men in the Moon",
+    "genre": "Satire"
+  },
+  {
+    "id": 1489,
+    "title": "The Social Cancer",
+    "genre": "Satire"
+  },
+  {
+    "id": 1490,
+    "title": "Our Mutual Friend",
+    "genre": "Satire"
+  },
+  {
+    "id": 1491,
+    "title": "Dead Souls",
+    "genre": "Satire"
+  },
+  {
+    "id": 1492,
+    "title": "The Cyberpunk Fakebook",
+    "genre": "Satire"
+  },
+  {
+    "id": 1493,
+    "title": "1601",
+    "genre": "Satire"
+  },
+  {
+    "id": 1494,
+    "title": "Evelina",
+    "genre": "Satire"
+  },
+  {
+    "id": 1495,
+    "title": "Vice in its Proper Shape",
+    "genre": "Satire"
+  },
+  {
+    "id": 1496,
+    "title": "The Coming Race",
+    "genre": "Satire"
+  },
+  {
+    "id": 1497,
+    "title": "Main Street",
+    "genre": "Satire"
+  },
+  {
+    "id": 1498,
+    "title": "Biology",
+    "genre": "Satire"
+  },
+  {
+    "id": 1499,
+    "title": "What Is Man?",
+    "genre": "Satire"
+  },
+  {
+    "id": 1500,
+    "title": "Amelia",
+    "genre": "Satire"
+  },
+  {
+    "id": 1501,
+    "title": "The Mysterious Stranger",
+    "genre": "Satire"
+  },
+  {
+    "id": 1502,
+    "title": "Gulliver's Travels",
+    "genre": "Satire"
+  },
+  {
+    "id": 1503,
+    "title": "On the Origin of Species",
+    "genre": "Science"
+  },
+  {
+    "id": 1504,
+    "title": "ABC's of Science",
+    "genre": "Science"
+  },
+  {
+    "id": 1505,
+    "title": "Criminal Psychology",
+    "genre": "Science"
+  },
+  {
+    "id": 1506,
+    "title": "Relativity - The Special and General Theory",
+    "genre": "Science"
+  },
+  {
+    "id": 1507,
+    "title": "Amusements in Mathematics",
+    "genre": "Science"
+  },
+  {
+    "id": 1508,
+    "title": "An Elementary Study of Chemistry",
+    "genre": "Science"
+  },
+  {
+    "id": 1509,
+    "title": "The Chemistry of Food and Nutrition",
+    "genre": "Science"
+  },
+  {
+    "id": 1510,
+    "title": "The Age of Invention",
+    "genre": "Science"
+  },
+  {
+    "id": 1511,
+    "title": "Popular scientific lectures",
+    "genre": "Science"
+  },
+  {
+    "id": 1512,
+    "title": "Alcohol: A Dangerous and Unnecessary Medicine, How and…",
+    "genre": "Science"
+  },
+  {
+    "id": 1513,
+    "title": "The Autobiography of Charles Darwin",
+    "genre": "Science"
+  },
+  {
+    "id": 1514,
+    "title": "The Einstein Theory of Relativity",
+    "genre": "Science"
+  },
+  {
+    "id": 1515,
+    "title": "Aesthetic as Science of Expression and General Linguis…",
+    "genre": "Science"
+  },
+  {
+    "id": 1516,
+    "title": "Diet and Health",
+    "genre": "Science"
+  },
+  {
+    "id": 1517,
+    "title": "The Descent of Man",
+    "genre": "Science"
+  },
+  {
+    "id": 1518,
+    "title": "A Course of Pure Mathematics",
+    "genre": "Science"
+  },
+  {
+    "id": 1519,
+    "title": "Decline of Science in England",
+    "genre": "Science"
+  },
+  {
+    "id": 1520,
+    "title": "General Science",
+    "genre": "Science"
+  },
+  {
+    "id": 1521,
+    "title": "The Expression of Emotion in Man and Animals",
+    "genre": "Science"
+  },
+  {
+    "id": 1522,
+    "title": "Anthropology",
+    "genre": "Science"
+  },
+  {
+    "id": 1523,
+    "title": "Disease and Its Causes",
+    "genre": "Science"
+  },
+  {
+    "id": 1524,
+    "title": "Aids to Forensic Medicine and Toxicology",
+    "genre": "Science"
+  },
+  {
+    "id": 1525,
+    "title": "An Elementary Study of Insects",
+    "genre": "Science"
+  },
+  {
+    "id": 1526,
+    "title": "Famous Men of Science",
+    "genre": "Science"
+  },
+  {
+    "id": 1527,
+    "title": "Luck and Love in 1902",
+    "genre": "Science"
+  },
+  {
+    "id": 1528,
+    "title": "The Granite Key",
+    "genre": "Science"
+  },
+  {
+    "id": 1529,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Science"
+  },
+  {
+    "id": 1530,
+    "title": "Russian Brides",
+    "genre": "Science"
+  },
+  {
+    "id": 1531,
+    "title": "River Bones",
+    "genre": "Science"
+  },
+  {
+    "id": 1532,
+    "title": "Remember",
+    "genre": "Science"
+  },
+  {
+    "id": 1533,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Science"
+  },
+  {
+    "id": 1534,
+    "title": "Playing in The Rain",
+    "genre": "Science"
+  },
+  {
+    "id": 1535,
+    "title": "May It Please The Court",
+    "genre": "Science"
+  },
+  {
+    "id": 1536,
+    "title": "Wyvern",
+    "genre": "Science"
+  },
+  {
+    "id": 1537,
+    "title": "Magnolia Tree",
+    "genre": "Science"
+  },
+  {
+    "id": 1538,
+    "title": "Keeping Katerina",
+    "genre": "Science"
+  },
+  {
+    "id": 1539,
+    "title": "20,000 Leagues Under the Sea",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1540,
+    "title": "The Time Machine",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1541,
+    "title": "The Invisible Man",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1542,
+    "title": "Anthem",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1543,
+    "title": "A Journey to the Centre of the Earth",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1544,
+    "title": "A Princess of Mars",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1545,
+    "title": "The Machine Stops",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1546,
+    "title": "After the Cure",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1547,
+    "title": "Accelerando",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1548,
+    "title": "Agent to the Stars",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1549,
+    "title": "The Island of Doctor Moreau",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1550,
+    "title": "'And That's How It Was, Officer''",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1551,
+    "title": "2 B R O 2 B",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1552,
+    "title": "For the Win",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1553,
+    "title": "Accidental Death",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1554,
+    "title": "The Aliens",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1555,
+    "title": "The Gods of Mars",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1556,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1557,
+    "title": "...After a Few Words...",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1558,
+    "title": "From the Earth to the Moon",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1559,
+    "title": "Abandoned",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1560,
+    "title": "At the Earth's Core",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1561,
+    "title": "Advanced Chemistry",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1562,
+    "title": "Hellhounds of the Cosmos",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1563,
+    "title": "Playing in The Rain",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1564,
+    "title": "Dawn of Rebellion",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1565,
+    "title": "Blackwing",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1566,
+    "title": "28 Days",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1567,
+    "title": "Genesis",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1568,
+    "title": "War Of The Animals",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1569,
+    "title": "When Totems Fall",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1570,
+    "title": "Desa Kincaid - Bounty Hunter",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1571,
+    "title": "Firmament: Radialloy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1572,
+    "title": "Call of the Goddess",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1573,
+    "title": "The Navigator",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1574,
+    "title": "The Dragon Lady",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1575,
+    "title": "Clarimonde",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1576,
+    "title": "Luck and Love in 1902",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1577,
+    "title": "The Granite Key",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1578,
+    "title": "Indiana Jones and the Temples of Tamil Nadu",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1579,
+    "title": "Russian Brides",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1580,
+    "title": "River Bones",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1581,
+    "title": "Remember",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1582,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1583,
+    "title": "Playing in The Rain",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1584,
+    "title": "May It Please The Court",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1585,
+    "title": "Wyvern",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1586,
+    "title": "Magnolia Tree",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1587,
+    "title": "Keeping Katerina",
+    "genre": "Sexuality"
+  },
+  {
+    "id": 1588,
+    "title": "The $30,000 Bequest",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1589,
+    "title": "The Machine Stops",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1590,
+    "title": "Clarimonde",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1591,
+    "title": "The Adventure of the Cardboard Box",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1592,
+    "title": "Beauty and the Beast",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1593,
+    "title": "Eve's Diary",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1594,
+    "title": "The Yellow Wallpaper",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1595,
+    "title": "The Adventure of the Dying Detective",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1596,
+    "title": "'And That's How It Was, Officer''",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1597,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1598,
+    "title": "2 B R O 2 B",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1599,
+    "title": "Accidental Death",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1600,
+    "title": "The Aliens",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1601,
+    "title": "The Front Yard and other Italian stories",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1602,
+    "title": "The Way of the Bow",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1603,
+    "title": "Dubliners",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1604,
+    "title": "The Adventure of the Bruce-Partington Plans",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1605,
+    "title": "...After a Few Words...",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1606,
+    "title": "The Adventure of the Devil's Foot",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1607,
+    "title": "Advanced Chemistry",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1608,
+    "title": "The Best American Humorous Short Stories",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1609,
+    "title": "The Best Short Stories of 1918",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1610,
+    "title": "Hellhounds of the Cosmos",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1611,
+    "title": "The Black Bag",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1612,
+    "title": "Daredevils",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1613,
+    "title": "Becoming Bader",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1614,
+    "title": "Zoltan",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1615,
+    "title": "A Mother's Love",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1616,
+    "title": "Heartknocks",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1617,
+    "title": "Drive",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1618,
+    "title": "Shimmer",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1619,
+    "title": "Winter Trials (Northern Witch #1)",
+    "genre": "Short Story"
+  },
+  {
+    "id": 1620,
+    "title": "The $30,000 Bequest",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1621,
+    "title": "The Best Ghost Stories",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1622,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1623,
+    "title": "The Arabian Nights Entertainments",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1624,
+    "title": "The Almost Perfect Murder",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1625,
+    "title": "Household Stories by the Brothers Grimm",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1626,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1627,
+    "title": "The Front Yard and other Italian stories",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1628,
+    "title": "The Raven / The Masque of the Red Death / The Cask of …",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1629,
+    "title": "The Book of the Thousand Nights and a Night, vol 1",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1630,
+    "title": "Dubliners",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1631,
+    "title": "The Arabian Nights Entertainments",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1632,
+    "title": "Bliss",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1633,
+    "title": "The Best American Humorous Short Stories",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1634,
+    "title": "All the Way to Fairyland",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1635,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1636,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1637,
+    "title": "After Dark",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1638,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1639,
+    "title": "The Book of Dreams and Ghosts",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1640,
+    "title": "His Last Bow",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1641,
+    "title": "Alaeddin und die Wunderlampe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1642,
+    "title": "Tales of the Jazz Age",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1643,
+    "title": "The Book of Wonder",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1644,
+    "title": "Collected Works of Poe",
+    "genre": "Short Story Collection"
+  },
+  {
+    "id": 1645,
+    "title": "The Phantom of the Opera",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1646,
+    "title": "The After House",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1647,
+    "title": "The Thirty-Nine Steps",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1648,
+    "title": "The Attic Murder",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1649,
+    "title": "The Angel of Terror",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1650,
+    "title": "813",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1651,
+    "title": "Loss Of Reason",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1652,
+    "title": "Jack O'Judgment",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1653,
+    "title": "The Eye of Osiris",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1654,
+    "title": "Dirt Dealers",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1655,
+    "title": "Mysterious Mr. Sabin",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1656,
+    "title": "The Charing Cross Mystery",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1657,
+    "title": "Whiskey Witches",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1658,
+    "title": "Kidnapped",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1659,
+    "title": "The Burial of the Rats",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1660,
+    "title": "The Avenger",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1661,
+    "title": "Geek Mafia",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1662,
+    "title": "Greenmantle",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1663,
+    "title": "Inside the Lines",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1664,
+    "title": "The Breaking Point",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1665,
+    "title": "Freedom Incorporated",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1666,
+    "title": "Dead Men Tell No Tales",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1667,
+    "title": "Dead Men's Money",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1668,
+    "title": "The Complete Celebrated Crimes",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1669,
+    "title": "Russian Brides",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1670,
+    "title": "Back-Up As Far As the World Stretches",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1671,
+    "title": "May It Please The Court",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1672,
+    "title": "Magnolia Tree",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1673,
+    "title": "Today I'll See Her",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1674,
+    "title": "City Of Sin",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1675,
+    "title": "Burned Up",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1676,
+    "title": "A Friend Of The Family",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1677,
+    "title": "Mastermind",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1678,
+    "title": "Dirt Dealers",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1679,
+    "title": "Whiskey Witches",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1680,
+    "title": "Ghostly Guardian",
+    "genre": "Thriller"
+  },
+  {
+    "id": 1681,
+    "title": "Three Men in a Boat",
+    "genre": "Travel"
+  },
+  {
+    "id": 1682,
+    "title": "Around the World in 80 Days",
+    "genre": "Travel"
+  },
+  {
+    "id": 1683,
+    "title": "Uncle Tom's Cabin",
+    "genre": "Travel"
+  },
+  {
+    "id": 1684,
+    "title": "Kashmir",
+    "genre": "Travel"
+  },
+  {
+    "id": 1685,
+    "title": "A Cathedral Courtship",
+    "genre": "Travel"
+  },
+  {
+    "id": 1686,
+    "title": "An Account of Egypt",
+    "genre": "Travel"
+  },
+  {
+    "id": 1687,
+    "title": "Aztec Land",
+    "genre": "Travel"
+  },
+  {
+    "id": 1688,
+    "title": "The Economist",
+    "genre": "Travel"
+  },
+  {
+    "id": 1689,
+    "title": "Abissinia",
+    "genre": "Travel"
+  },
+  {
+    "id": 1690,
+    "title": "Canoeing in the wilderness",
+    "genre": "Travel"
+  },
+  {
+    "id": 1691,
+    "title": "The Art of Living in Australia",
+    "genre": "Travel"
+  },
+  {
+    "id": 1692,
+    "title": "Beautiful Britain",
+    "genre": "Travel"
+  },
+  {
+    "id": 1693,
+    "title": "Byways Around San Francisco Bay",
+    "genre": "Travel"
+  },
+  {
+    "id": 1694,
+    "title": "Jérusalem",
+    "genre": "Travel"
+  },
+  {
+    "id": 1695,
+    "title": "Where the Strange Trails Go Down",
+    "genre": "Travel"
+  },
+  {
+    "id": 1696,
+    "title": "Captain Cook",
+    "genre": "Travel"
+  },
+  {
+    "id": 1697,
+    "title": "The Fortunate Isles",
+    "genre": "Travel"
+  },
+  {
+    "id": 1698,
+    "title": "Alaska Days with John Muir",
+    "genre": "Travel"
+  },
+  {
+    "id": 1699,
+    "title": "Chateau and Country Life in France",
+    "genre": "Travel"
+  },
+  {
+    "id": 1700,
+    "title": "The South Pole",
+    "genre": "Travel"
+  },
+  {
+    "id": 1701,
+    "title": "Miss Cayley's Adventures",
+    "genre": "Travel"
+  },
+  {
+    "id": 1702,
+    "title": "William Tell Told Again",
+    "genre": "Travel"
+  },
+  {
+    "id": 1703,
+    "title": "Following the Equator",
+    "genre": "Travel"
+  },
+  {
+    "id": 1704,
+    "title": "Across Mongolian Plains",
+    "genre": "Travel"
+  },
+  {
+    "id": 1705,
+    "title": "Around the World in 80 Days",
+    "genre": "Travel"
+  },
+  {
+    "id": 1706,
+    "title": "The Art of War",
+    "genre": "War"
+  },
+  {
+    "id": 1707,
+    "title": "A Tale of Two Cities",
+    "genre": "War"
+  },
+  {
+    "id": 1708,
+    "title": "The Thirty-Nine Steps",
+    "genre": "War"
+  },
+  {
+    "id": 1709,
+    "title": "The River War",
+    "genre": "War"
+  },
+  {
+    "id": 1710,
+    "title": "Laramie'",
+    "genre": "War"
+  },
+  {
+    "id": 1711,
+    "title": "The Apartment Next Door",
+    "genre": "War"
+  },
+  {
+    "id": 1712,
+    "title": "Abraham Lincoln",
+    "genre": "War"
+  },
+  {
+    "id": 1713,
+    "title": "Arms and the Man",
+    "genre": "War"
+  },
+  {
+    "id": 1714,
+    "title": "Loss Of Reason",
+    "genre": "War"
+  },
+  {
+    "id": 1715,
+    "title": "!Tention",
+    "genre": "War"
+  },
+  {
+    "id": 1716,
+    "title": "The Last of the Mohicans",
+    "genre": "War"
+  },
+  {
+    "id": 1717,
+    "title": "The Red Badge of Courage",
+    "genre": "War"
+  },
+  {
+    "id": 1718,
+    "title": "The Angels of Mons",
+    "genre": "War"
+  },
+  {
+    "id": 1719,
+    "title": "Armageddon—2419 A.D.",
+    "genre": "War"
+  },
+  {
+    "id": 1720,
+    "title": "Abraham Lincoln, a History -- Volume 2",
+    "genre": "War"
+  },
+  {
+    "id": 1721,
+    "title": "Greenmantle",
+    "genre": "War"
+  },
+  {
+    "id": 1722,
+    "title": "Rilla of Ingleside",
+    "genre": "War"
+  },
+  {
+    "id": 1723,
+    "title": "The Diary of a U-boat Commander",
+    "genre": "War"
+  },
+  {
+    "id": 1724,
+    "title": "Napoleon Bonaparte",
+    "genre": "War"
+  },
+  {
+    "id": 1725,
+    "title": "Elements of Military Art and Science",
+    "genre": "War"
+  },
+  {
+    "id": 1726,
+    "title": "Simon Called Peter",
+    "genre": "War"
+  },
+  {
+    "id": 1727,
+    "title": "With the Turks in Palestine",
+    "genre": "War"
+  },
+  {
+    "id": 1728,
+    "title": "The Voyage Out",
+    "genre": "War"
+  },
+  {
+    "id": 1729,
+    "title": "Loss Of Reason",
+    "genre": "War"
+  },
+  {
+    "id": 1730,
+    "title": "The Thirty-Nine Steps",
+    "genre": "War"
+  },
+  {
+    "id": 1731,
+    "title": "The Last of the Mohicans",
+    "genre": "War"
+  },
+  {
+    "id": 1732,
+    "title": "The Red Badge of Courage",
+    "genre": "War"
+  },
+  {
+    "id": 1733,
+    "title": "The Bandit of Hell's Bend",
+    "genre": "Western"
+  },
+  {
+    "id": 1734,
+    "title": "Alcatraz",
+    "genre": "Western"
+  },
+  {
+    "id": 1735,
+    "title": "A Voice in the Wilderness",
+    "genre": "Western"
+  },
+  {
+    "id": 1736,
+    "title": "The Border Legion",
+    "genre": "Western"
+  },
+  {
+    "id": 1737,
+    "title": "Firebrand' Trevison",
+    "genre": "Western"
+  },
+  {
+    "id": 1738,
+    "title": "Winnetou, the Apache Knight",
+    "genre": "Western"
+  },
+  {
+    "id": 1739,
+    "title": "The Ranch Girls at Home Again",
+    "genre": "Western"
+  },
+  {
+    "id": 1740,
+    "title": "The Two-Gun Man",
+    "genre": "Western"
+  },
+  {
+    "id": 1741,
+    "title": "Bull Hunter",
+    "genre": "Western"
+  },
+  {
+    "id": 1742,
+    "title": "Burning Daylight",
+    "genre": "Western"
+  },
+  {
+    "id": 1743,
+    "title": "Dwellers in the Hills",
+    "genre": "Western"
+  },
+  {
+    "id": 1744,
+    "title": "Rebel Spurs",
+    "genre": "Western"
+  },
+  {
+    "id": 1745,
+    "title": "Drag' Harlan",
+    "genre": "Western"
+  },
+  {
+    "id": 1746,
+    "title": "The Man of the Forest",
+    "genre": "Western"
+  },
+  {
+    "id": 1747,
+    "title": "Love of Life",
+    "genre": "Western"
+  },
+  {
+    "id": 1748,
+    "title": "The Seventh Man",
+    "genre": "Western"
+  },
+  {
+    "id": 1749,
+    "title": "The Boss of the Lazy Y",
+    "genre": "Western"
+  },
+  {
+    "id": 1750,
+    "title": "Big Timber",
+    "genre": "Western"
+  },
+  {
+    "id": 1751,
+    "title": "The Everlasting Whisper",
+    "genre": "Western"
+  },
+  {
+    "id": 1752,
+    "title": "Beth Norvell",
+    "genre": "Western"
+  },
+  {
+    "id": 1753,
+    "title": "Brand Blotters",
+    "genre": "Western"
+  },
+  {
+    "id": 1754,
+    "title": "Evidence",
+    "genre": "Western"
+  },
+  {
+    "id": 1755,
+    "title": "The Night Horseman",
+    "genre": "Western"
+  },
+  {
+    "id": 1756,
+    "title": "Ben Blair",
+    "genre": "Western"
+  },
+  {
+    "id": 1757,
+    "title": "Born To Track",
+    "genre": "Western"
+  },
+  {
+    "id": 1758,
+    "title": "Texas Cowboy's Protection",
+    "genre": "Western"
+  },
+  {
+    "id": 1759,
+    "title": "The Yellow Wallpaper",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1760,
+    "title": "Pygmalion",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1761,
+    "title": "Angel Island",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1762,
+    "title": "A Bed of Roses",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1763,
+    "title": "In His Steps",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1764,
+    "title": "The Ladies Book of Useful Information",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1765,
+    "title": "Evelina",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1766,
+    "title": "Woman",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1767,
+    "title": "Around the World in Seventy-Two Days",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1768,
+    "title": "The Business of Being a Woman",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1769,
+    "title": "The Job",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1770,
+    "title": "Love for a Deaf Rebel",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1771,
+    "title": "Herland",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1772,
+    "title": "Characteristics of Women",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1773,
+    "title": "The American Country Girl",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1774,
+    "title": "Camilla",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1775,
+    "title": "Balcony Stories",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1776,
+    "title": "The Swiss Family Robinson",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1777,
+    "title": "Japanese Girls and Women",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1778,
+    "title": "Memoirs of an Arabian Princess",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1779,
+    "title": "Man and Wife",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1780,
+    "title": "In Defense of Women",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1781,
+    "title": "The Egoist",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1782,
+    "title": "Manners and Social Usages",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1783,
+    "title": "Love for a Deaf Rebel",
+    "genre": "Women's Studies"
+  },
+  {
+    "id": 1784,
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1785,
+    "title": "A Pair of Schoolgirls",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1786,
+    "title": "ABC's of Science",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1787,
+    "title": "Oliver Twist",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1788,
+    "title": "Aesop's Fables",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1789,
+    "title": "Grimms' Fairy Tales",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1790,
+    "title": "Through the Looking Glass",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1791,
+    "title": "Laughing Last",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1792,
+    "title": "Beauty and the Beast",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1793,
+    "title": "Adventures of Pinocchio",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1794,
+    "title": "Household Stories by the Brothers Grimm",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1795,
+    "title": "The Adventures of Odysseus and The Tales of Troy",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1796,
+    "title": "For the Win",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1797,
+    "title": "Kim",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1798,
+    "title": "Alice's Abenteuer im Wonderland",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1799,
+    "title": "All the Way to Fairyland",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1800,
+    "title": "A Wonder Book and Tanglewood Tales",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1801,
+    "title": "Aesop's Fables",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1802,
+    "title": "The Magic Nuts",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1803,
+    "title": "The Jungle Book",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1804,
+    "title": "The Stinging Tree",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1805,
+    "title": "Swiss Family Robinson",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1806,
+    "title": "Across the Spanish Main",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1807,
+    "title": "Harding's Luck",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1808,
+    "title": "Firmament: Radialloy",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1809,
+    "title": "Artania: The Pharaoh's Cry",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1810,
+    "title": "Marked",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1811,
+    "title": "The Frights of Fiji",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1812,
+    "title": "Skylar Robbins: The Mystery of the Hidden Jewels",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1813,
+    "title": "Children of the Knight",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1814,
+    "title": "First Magic",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1815,
+    "title": "Secrets and Guardians: Devious Intentions",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1816,
+    "title": "Telescope Jim",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1817,
+    "title": "The Ultimate Sacrifice",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1818,
+    "title": "Dark Promise",
+    "genre": "Young Readers"
+  },
+  {
+    "id": 1819,
+    "title": "The Dawnvel Druids",
+    "genre": "Young Readers"
+  }
+]
