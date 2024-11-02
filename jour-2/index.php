@@ -24,7 +24,9 @@ else: ?>
                 } ?>
                 <div class="space-y-4">
                     <h2 class="text-xl uppercase"><strong><?= $char ?></strong> (<?= count($books) ?>)</h2>
-                    <?php require __DIR__ . '/includes/book-list.php' ?>
+                    <div class="grid grid-cols-5 gap-3">
+                        <?php require __DIR__ . '/includes/book-list.php' ?>
+                    </div>
                 </div>
             <?php endforeach; ?>
         </div>

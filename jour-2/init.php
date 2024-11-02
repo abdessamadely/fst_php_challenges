@@ -2,6 +2,7 @@
 
 session_start();
 
+require __DIR__ . '/lib/helpers.php';
 require __DIR__ . '/lib/database.php';
 require __DIR__ . '/lib/repository.php';
 
