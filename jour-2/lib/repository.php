@@ -118,11 +118,30 @@ function get_suggested_books($user_id, $limit_per_genre = 6)
     return $suggested_books;
 }
 
-function get_popular_books($duration = '1 minute')
+function get_popular_books($user_id, $duration = '1 minute', $limit = 10)
 {
-    $start_date = (new DateTime())->sub(DateInterval::createFromDateString($duration));
+    global $conn;
 
-    return [];
+    $start_date = (new DateTime())->sub(DateInterval::createFromDateString($duration));
+    $start_date = $start_date->format('d-m-Y');
+
+    $stmt = $conn->prepare(<<<SQL
+        SELECT id, title, genre, popularity_score as reserved_times
+        FROM books
+        JOIN reservations ON reservations.id_book = books.id
+        WHERE date_reservation >= STR_TO_DATE(?, '%d-%m-%Y')
+        AND id NOT IN (
+            SELECT id_book FROM reservations WHERE id_user = ?
+        )
+        ORDER BY popularity_score DESC
+        LIMIT ?
+    SQL);
+
+    $stmt->bind_param("sii", $start_date, $user_id, $limit);
+    $stmt->execute();
+    $result = $stmt->get_result();
+
+    return $result->fetch_all(MYSQLI_ASSOC);
 }
 
 function is_book_reserved($user_id, $book_id)

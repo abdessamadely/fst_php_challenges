@@ -1,28 +1,3 @@
-
-2. Étape 1 : Analyse des Préférences de Lecture de l’Utilisateur
-
-Lorsque l'utilisateur réserve un livre, l'algorithme doit :
-
-Enregistrer le genre du livre dans les préférences utilisateur.
-
-Compter le nombre de livres réservés par genre pour chaque utilisateur.
-
-Code PHP (exemple de logique de calcul des préférences) :
-
-function getUserPreferences($userId, $db) {
-    $query = "
-        SELECT books.genre, COUNT(*) as count
-        FROM reservations
-        INNER JOIN books ON reservations.id_book = books.id
-        WHERE reservations.id_user = :userId
-        GROUP BY books.genre
-        ORDER BY count DESC;
-    ";
-    $stmt = $db->prepare($query);
-$stmt->execute(['userId' => $userId]);
-return $stmt->fetchAll(PDO::FETCH_ASSOC); // Renvoie les genres préférés avec un décompte
-}
-
 3. Étape 2 : Calcul de la Liste de Suggestions
 
 Basé sur les genres favoris de l'utilisateur et les livres populaires, suggérer des livres pertinents.
